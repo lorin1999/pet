@@ -4,7 +4,7 @@ This is not about typing in code but about what kind of language Python is. Ther
 
 ## Weak vs strong typing
 
-This is basically unhelpful for almost all important languages in use today. See if you can make sense of [the Wikipedia article](https://en.wikipedia.org/wiki/Strong_and_weak_typing). This post is more helpful: [C# is strongly and weakly typed](http://ericlippert.com/2012/10/15/is-c-a-strongly-typed-or-a-weakly-typed-language/)
+This is basically unhelpful for almost all important languages in use today. See if you can make sense of [the Wikipedia article](https://en.wikipedia.org/wiki/Strong_and_weak_typing). This post is helpful to understand the weaknesses of making those distinctions: [C# is strongly and weakly typed](http://ericlippert.com/2012/10/15/is-c-a-strongly-typed-or-a-weakly-typed-language/)
 
 With this in mind: on a scale from 1 to 10 Python is maybe on 8 on the strongness of typing, as it does little coercion and no casting, but only type conversion by creating new objects with the converted types.
 
