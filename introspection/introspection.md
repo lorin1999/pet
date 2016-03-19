@@ -46,7 +46,7 @@ You can query this information directly from the search popups to inspect the ob
 
 ### Structure Tool Window
 
-The [Structure Tool Window](https://www.jetbrains.com/help/idea/2016.1/navigating-through-a-diagram-using-structure-view.html) makes all classes and functions explorable from a bird's eye perspective.
+The [Structure Tool Window](https://www.jetbrains.com/help/idea/2016.1/structure-tool-window-file-structure-popup.html) makes all classes and functions explorable from a bird's eye perspective.
 
 ### Goto Declaration and back
 
