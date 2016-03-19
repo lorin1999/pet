@@ -1,8 +1,8 @@
 # They are everywhere !1!!
 
-![image](container.jpg)
+![image](containers.jpg)
 
-Containers and the intutive way of working with them are one of the distinguishing features of Python.
+Containers and the intuitive way of working with them are one of the features of Python that can make you productive with the language right from the start.
 
 ## All container types are Sequences (iterables)
 
