@@ -2,4 +2,4 @@
 
 ![logo](codecats-logo.png)
 
-Materials for an ongoing course with [CodeCats](http://codecats.io/) at the[Zeppelin University](https://www.zu.de/). 
+Materials for an ongoing course with [CodeCats](http://codecats.io/) at the [Zeppelin University](https://www.zu.de/). 
