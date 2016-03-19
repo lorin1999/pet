@@ -1,6 +1,6 @@
 #  Typing
 
-This is not about typing in code but about what kind of language Python is. There are two main ways people talk about how typing is implemented .
+This is not about typing in code but about what kind of language Python is. There are two main ways people talk about how typing is implemented.
 
 ## Weak vs strong typing
 
