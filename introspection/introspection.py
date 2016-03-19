@@ -15,7 +15,7 @@ in Ipython:
 """
 
 
-def print_object_attributes(obj):
+def print_introspection_info(obj):
     print "inspect all public attributes of %s" % type(obj)
     for name in dir(obj):
         if name.startswith('_'):
@@ -29,6 +29,7 @@ def print_object_attributes(obj):
 
 
 objs = [1, 1.0, 's', [], {}, tuple(), set()]
+assert isinstance(objs, list)
 for obj in objs:
-    print_object_attributes(obj)
+    print_introspection_info(obj)
     print "#" * 120

@@ -4,23 +4,25 @@
     
 > ― C.G. Jung
 
-Most of the introspection introductions deal with the inbuilt capabilities of Python and how to use them in a REPL. I will instead concentrate here on a mix of using PyCharms capabilities and little scripts using the introspective capabilities of Python. I might stretch the classic definition of introspection a bit here, as I am understanding it as well as exploring your project, the standard library and third party libraries.
-
 ## Classic introspection
 
-* `dir` takes any object and returns a list of all attribute names. With those you can explore the object further. 
+* `dir` takes an object and returns a list of all attribute names. With those you can explore the object further.
 
-* `help` takes any object and prints the documentation for that object.
+* `help` takes an object and prints the documentation for that object.
 
-* `type` takes any object and returns a string representation of its type.
+* `type` takes an object and returns a string representation of its type.
 
 * `isinstance` tells you if the object is an instance of a given type
 
 * the [inspect module](https://docs.python.org/2/library/inspect.html) contains a lot of useful functions for even more advanced introspection of live objects
 
+[demo that uses these capabilites]()
+
 Here is a good [old-school tutorial](http://www.ibm.com/developerworks/library/l-pyint/) to introspection if you want to explore that a bit more.
 
 ## The PyCharm way of introspection
+
+With classic ways of introspection of introductions out of the we can now look at here using PyCharms for introspection and code exploration. The capabilities for code exploration and introspection are built on top of the languages capabilities for introspection offering a convenient interface to them.
 
 ## Reading documentation and source code
 
