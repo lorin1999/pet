@@ -18,7 +18,8 @@ This is easier: Python is dynamically typed. You do not have to explicitly decla
 
 ## Python vs Java
 
-[Python names are like post-its](http://goo.gl/kL4XB)
+[Python names (**not variables**) are like post-its](http://goo.gl/kL4XB)
+
 [Java variables are like club bouncers](http://www.pythontutor.com/visualize.html#mode=edit):
 
     public class JavaVariables {
