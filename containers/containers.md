@@ -4,21 +4,35 @@
 
 Containers and the intuitive way of working with them are one of the features of Python that can make you productive with the language right from the start. They are also an integral part of the internal language mechanics, so understanding them is essential tp understand how Python as a language ticks.
 
-What turns a class into a container? If the class implements the `def __contains__` method it is a container.
+## What can I put in?
 
-## All native containers types are also Sequences (iterables)
+That depends on the container. Lists are the most welcoming containers, you can put in anything. Other containers (e.g. sets and tuples and dicts for their keys) need something hashable (we see that later in demo).
 
-All containers contain object references and you can put in there whatever you want (also mixing different types).
+## Containers are iterable
 
+All native container types 
 
-## Maps
+## What makes a container out of an object? 
 
+If the objects has a `__contains__` method it is a container and you can use the `in` operator to check if an object is in your container.
 
-**Two basic :** Sequenzen und Abbildungen - wenn man **list**,
-    **tupel** und **dict** kennt, ist man erstmal gut bedient.
-Containerklassen sind aber nicht nur auf Userebene zentral,
-    sondern sie sind auch ein integraler Bestandteil der internen
-    Sprachmechanik
-Alles in Python ist ein Objekt und **fast** jedes Objekt hat
-    ein dict in dem alle Namen und Funktionen auf die zugehörigen
-    Objekte abgebildet sind.
+```python
+myObject = 1
+myContainer = [myObject]
+if myObject in myContainer:
+    print "WOHOO!"
+```
+
+OUT:
+
+    WOHOO!
+    
+This works exactly the same for classes that you define and equip with a `__contains__` method
+
+[demo](inspect-objects.py)
+
+# Containers as part of the Python language mechanics
+
+Every module contains dictionaries holding all the objects in the namespace of that module. Check out the `locals()` and `globals()` builtins
+
+Everything in Python is an object and almost every object contains a dictionary holding attributes and methods
