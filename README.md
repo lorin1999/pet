@@ -1,3 +1,5 @@
-# Python Course (very early stage)
+# Python Course Materials (early stages)
 
-Let's see where this goes ...
+![logo](codecats-logo.png)
+
+Materials for an ongoing course with [CodeCats](http://codecats.io/) at the[Zeppelin University](https://www.zu.de/). 

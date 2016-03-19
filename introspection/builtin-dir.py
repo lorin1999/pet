@@ -23,7 +23,7 @@ def print_object_attributes(obj):
 
         value = getattr(obj, name)
         valueType = type(value)
-        print "%s | %s | %s" % (name, value, valueType)
+        print "## %s | %s | %s ##" % (name, value, valueType)
         help(value)  # a bit fancier than just print value.__doc__
         print "-" * 120
 
