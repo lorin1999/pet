@@ -1,4 +1,4 @@
-# Introduction to Python Introspection
+# Introduction to Introspection
 
 > Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes. 
     
@@ -37,9 +37,19 @@ Invoking any of those actions with the cursor over a piece of code will provide 
 
 You can query this information directly from the search popups to inspect the objects. As an example: If you want to know what you project contains to do with files you just type "file" in the "Search Everywhere" popup and get offered the file builtin, you can scroll down to that entry and invoke the Quick Documentation action and you see the documentation including a link to the external documentation on the web.
 
-## Auto Completion
+## Exploring the Structure
 
-Code completion is actually also a form of introspection that helps you figuring out what you can do with the objects in your code. Pycharm has basic and SmartType completion.I don't quite get the smart in smartType it just offers you lots of types. Autocompletion is [quite versatile](https://www.jetbrains.com/help/pycharm/5.0/auto-completing-code.html?origin=old_help).
+### Structure Tool Window
+
+The [Structure Tool Window](https://www.jetbrains.com/help/idea/2016.1/navigating-through-a-diagram-using-structure-view.html) makes all classes and functions explorable from a bird's eye perspective.
+
+### Goto Declaration and back
+
+You can navigate the code by activating the Goto declaration Action or holding down Ctrl and clicking with the mouse on the object to go to the source code. The navigate back action (`Alt+left`) brings you back to the old position just like the history function in a web browser. This way of navigating through the code lets you see the code as a collection of connected objects instead of as just text.
+
+### Auto Completion
+
+This (especially in combination with Quick Documentation and Quick Definition directly from the completion popup) is actually also a very effective way to explore the code. Pycharm has basic and SmartType completion. I don't quite get the smart in smartType though ... it just offers you lots of types which are currently not imported. Auto Completion is [quite versatile](https://www.jetbrains.com/help/pycharm/5.0/auto-completing-code.html?origin=old_help).
 
 You can even use completion and query features in this markdown document:
 
