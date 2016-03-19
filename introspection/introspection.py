@@ -16,7 +16,7 @@ in Ipython:
 
 
 def print_introspection_info(obj):
-    print "inspect all public attributes of %s" % type(obj)
+    print "inspect all public attributes of %s id(%s)" % (type(obj), id(obj))
     for name in dir(obj):
         if name.startswith('_'):
             continue

@@ -6,18 +6,13 @@
 
 ## Classic introspection
 
+* `id` returns an int that is the unique id for that object in memory
 * `dir` takes an object and returns a list of all attribute names. With those you can explore the object further.
-
 * `help` takes an object and prints the documentation for that object.
-
 * `type` takes an object and returns a string representation of its type.
-
 * `isinstance` tells you if the object is an instance of a given type
-
 * the [inspect module](https://docs.python.org/2/library/inspect.html) contains a lot of useful functions for even more advanced introspection of live objects
-
 * the [sys module](https://docs.python.org/2/library/sys.html#module-sys) contains information about the Python interpreter itself and the system the interpreter is running on. `sys.argv` is a list of command line arguments passed to the running script.
-
 * the [sysconfig](https://docs.python.org/2/library/sysconfig.html#module-sysconfig) provides access to Python's configuration information like the list of installation paths and the configuration variables relevant for the current platform.
 
 Here is a good [old-school tutorial](http://www.ibm.com/developerworks/library/l-pyint/) to introspection if you want to explore that a bit more.
