@@ -1,10 +1,12 @@
-# They are everywhere !1!!
+# Containers! They are everywhere !1!!
 
 ![image](containers.jpg)
 
-Containers and the intuitive way of working with them are one of the features of Python that can make you productive with the language right from the start.
+Containers and the intuitive way of working with them are one of the features of Python that can make you productive with the language right from the start. They are also an integral part of the internal language mechanics, so understanding them is essential tp understand how Python as a language ticks.
 
-## All container types are Sequences (iterables)
+What turns a class into a container? If the class implements the `def __contains__` method it is a container.
+
+## All native containers types are also Sequences (iterables)
 
 All containers contain object references and you can put in there whatever you want (also mixing different types).
 
