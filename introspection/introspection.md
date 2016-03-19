@@ -20,6 +20,7 @@ Here is a good [old-school tutorial](http://www.ibm.com/developerworks/library/l
 ### Demos
 
 * [basic introspection demo](introspection.py)
+* [basic introspection demo](more-introspection.py)
 
 ## The PyCharm way of introspection
 
