@@ -18,7 +18,7 @@ This is easier: Python is dynamically typed. You never explicitly declare a type
 
 ## Python vs Java
 
-[Java variables are like club bouncers](http://www.pythontutor.com/visualize.html#mode=edit):
+[Java variables are like picky club bouncers](http://www.pythontutor.com/visualize.html#mode=edit):
 
     public class JavaVariables {
         public static void main(String[] args) {
