@@ -50,7 +50,7 @@ The [Structure Tool Window](https://www.jetbrains.com/help/idea/2016.1/structure
 
 ### Goto Declaration and back
 
-You can navigate the code by activating the Goto declaration Action or holding down Ctrl and clicking with the mouse on the object to go to the source code. The navigate back action (`Alt+left`) brings you back to the old position just like the history function in a web browser. This way of navigating through the code lets you see the code as a collection of connected objects instead of as just text.
+You can navigate the code by activating the "Goto Declaration" Action or by holding down `Ctrl` and clicking with the mouse on the object to go to the source code of the referenced object. The "Navigate Back" action (`Alt+left`) brings you back to the old position just like the history function in a web browser. This way of navigating through the code lets you see the code as a collection of connected objects instead of as just text.
 
 ### Auto Completion
 
