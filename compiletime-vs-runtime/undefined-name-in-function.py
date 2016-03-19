@@ -1,4 +1,9 @@
 def contains_undefined_name():
-    adrfse
+    maybeIamDefinedMaybeNot
 
 print "after undefined name in function"  # Will this be executed?
+
+if False:
+    adrfse = 'I am defined as global to the module'
+
+contains_undefined_name()
