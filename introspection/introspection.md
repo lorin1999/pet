@@ -17,6 +17,10 @@
 
 Here is a good [old-school tutorial](http://www.ibm.com/developerworks/library/l-pyint/) to introspection if you want to explore that a bit more.
 
+### Better interactive exploration
+
+If you want to try these things in a REPL (Read Eval Print Loop - a.k.a. Interactive Interpreter) I would strongly recommend [Ipython](https://ipython.org/). It is much more powerful than the default REPL with tab completion, syntax highlighting shell functionality and a powerful help system.
+
 ### Demos
 
 * [basic object introspection](introspection.py)
@@ -24,7 +28,7 @@ Here is a good [old-school tutorial](http://www.ibm.com/developerworks/library/l
 
 ## The PyCharm way of introspection
 
-With classic ways of introspection of introductions out of the we can now look at here using PyCharms for introspection and code exploration. The capabilities for code exploration and introspection are built on top of the languages capabilities for introspection offering a convenient interface to them.
+With the classic ways of introspection out of the we can now look at here using PyCharms for introspection and code exploration. The capabilities for code exploration and introspection are built on top of the languages capabilities for introspection offering a convenient interface to them.
 
 ## Reading documentation and source code
 
