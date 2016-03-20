@@ -2,7 +2,7 @@
 
 ![image](containers.jpg)
 
-Containers and the intuitive way of working with them are one of the features of Python that can make you productive with the language right from the start. They are also an integral part of the internal language mechanics, so understanding them is essential tp understand how Python as a language ticks.
+Containers and the intuitive way of working with them are one of the features of Python that can make you productive with the language right from the start. They are also an integral part of the internal language mechanics. Understanding them is essential to understand how Python as a language ticks.
 
 ## What can I put in?
 
