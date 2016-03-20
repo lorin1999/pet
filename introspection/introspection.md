@@ -23,7 +23,7 @@ If you want to try these things in a [REPL](https://docs.python.org/2/tutorial/i
 
 ## The PyCharm way of introspection
 
-With the classic ways of introspection out of the way we can now look at here using PyCharms for introspection and code exploration. The capabilities for code exploration and introspection are built on top of the languages capabilities for introspection offering a convenient interface to them.
+With the classic ways of introspection out of the way we can now look at using PyCharm for introspection and code exploration. The capabilities for code exploration and introspection are built on top of the languages capabilities for introspection offering a convenient interface to them.
 
 ## Reading documentation and source code
 
