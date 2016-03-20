@@ -4,7 +4,7 @@ Although two distinct stages in the execution of a Python program are often ment
 
 ## 1. Phase (no execution): syntax check and byte compilation
 
-When running a Python script the execution works exactly as you would expect: The interpreter reads the file line by line and executes all statements one after the other. Imports cause the execution to descend into the imported module and pops back up, when it walked through the imported module if the interpreter encounter a `def` or `class` statement, a function or class object is created and bound to the global namespace of the containing module [example](http://goo.gl/qxsj6D). 
+When running a Python script the execution works exactly as you would expect: The interpreter reads the file line by line and executes all statements one after the other. Imports cause the execution to descend into the imported module and pops back up, when it walked through the imported module if the interpreter encounter a `def` or `class` statement, a function or class object is created and bound to the global namespace of the containing module [example](http://goo.gl/jluF7F). 
 
 demos:
 
