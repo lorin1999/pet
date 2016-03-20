@@ -1,6 +1,6 @@
 # How does Python execute?
 
-Although two distinct stages in the execution of a Python program are often mentioned (compile time (or import time) and runtime) there is actually only one execution phase, once the code is parsed and compiled.
+Although two distinct stages in the execution of a Python program are often mentioned (compile time (or import time) and runtime) there is actually only one execution phase once the code is parsed and compiled.
 
 ## 1. Phase (no execution): syntax check and byte compilation
 
