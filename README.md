@@ -21,3 +21,4 @@ Materials for an ongoing course with [CodeCats](http://codecats.io/) at the [Zep
 * [imports](imports/main.md)
 * [access](access/main.md)
 * [gotchas](gotchas/main.md)
+* [internals](internals/main.md)
