@@ -10,23 +10,7 @@ That depends on the container. Lists are the most welcoming containers, you can 
 
 ## Native Containers are iterable
 
-All native container types are iterable by using the following central looping construct):
-
-```python
-for element in [1, 's', [1, 3], 1j]:
-    print element
-
-for letter in "some string":
-    print letter
-
-mydict = {'k1': 1, 'k2': 2}
-for key in mydict:
-    print key, mydict[key]
-    
-for key, value in {'k1': 1, 'k2': 2}.items():
-    print key, value
-    
-```
+All native container types can be iterated over by using a `for ... in` loop : [demo](iterating.ipynb)
 
 ## What turns an object into a container? 
 
