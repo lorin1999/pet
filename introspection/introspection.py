@@ -1,19 +1,3 @@
-"""
-Get help about an object
-
-in default REPL:
-
-    help(sys)
-
-on command line:
-
-    pydoc sys
-
-in Ipython:
-
-    sys?
-"""
-
 
 def print_introspection_info(obj):
     print "inspect all public attributes of %s id(%s)" % (type(obj), id(obj))
