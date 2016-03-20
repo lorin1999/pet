@@ -10,12 +10,11 @@ Materials for an ongoing course with [CodeCats](http://codecats.io/) at the [Zep
 
 ## Modules that are vaguely informative already
 
+* [introspection](introspection/main.md)
 * [execution model](execution-model/main.md)
 * [typing](typing/main.md)
 * [containers](containers/main.md)
 * [namespaces](introspection/main.md)
-* [introspection](introspection/main.md)
-* [introspection](introspection/main.md)
 
 ### Modules that need more work
 
