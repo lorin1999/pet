@@ -4,7 +4,7 @@ Although two distinct stages in the execution of a Python program are often ment
 
 ## 1. Phase (no execution): syntax check and byte compilation
 
-When running a Python script there is always one concrete entry point from where on the code parsed and byte compiled. The parsing always starts on the first line of the file that contains the entry point and descends into imported modules. If the syntax of any line of code is incorrect the execution is stopped immediately. Due to the dynamic nature of Python less problems are caught during compile time than in e.g. Java
+When running a Python script the execution works exactly as you would expect: The interpreter reads the file line by line and executes all statements one after the other. Imports cause the execution to descend into the imported module and pops back up, when it walked through the imported module if the interpreter encounter a `def` or `class` statement, a function or class object is created and bound to the global namespace of the containing module [example](http://goo.gl/kL4XB). 
 
 demos:
 
@@ -24,4 +24,5 @@ demos:
 
 ## Resources
 
-[execution model in Python documentation](https://docs.python.org/2/reference/executionmodel.html)
+* [execution model in Python documentation](https://docs.python.org/2/reference/executionmodel.html)
+* [good article about execution model](https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/)
