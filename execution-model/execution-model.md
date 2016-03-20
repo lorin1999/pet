@@ -1,8 +1,6 @@
 # How does Python execute?
 
-[execution model](https://docs.python.org/2/reference/executionmodel.html)
-
-Although two distinct stages in the execution of a Python program are often mentioned mentioned (compile time (or import time) and runtime) there is actually only one execution phase, once the code is parsed and compiled.
+Although two distinct stages in the execution of a Python program are often mentioned (compile time (or import time) and runtime) there is actually only one execution phase, once the code is parsed and compiled.
 
 ## 1. Phase (no execution): syntax check and byte compilation
 
@@ -23,3 +21,7 @@ demos:
 
 * [undefined in module](undefined-name-in-module.py)
 * [undefined in module](undefined-name-in-function.py)
+
+## Resources
+
+[execution model in Python documentation](https://docs.python.org/2/reference/executionmodel.html)
