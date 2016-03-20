@@ -18,7 +18,7 @@ Materials for an ongoing course with [CodeCats](http://codecats.io/) at the [Zep
 
 ### Modules that need more work
 
-* [imports](imports/main.md)
+* [structure](structure/main.md)
 * [access](access/main.md)
 * [gotchas](gotchas/main.md)
 * [internals](internals/main.md)
