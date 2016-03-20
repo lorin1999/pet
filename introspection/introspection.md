@@ -19,7 +19,7 @@ Here is a good [old-school tutorial](http://www.ibm.com/developerworks/library/l
 
 ### Better interactive exploration
 
-If you want to try these things in a [REPL](https://docs.python.org/2/tutorial/interpreter.html#interactive-mode) (Read Eval Print Loop - a.k.a. Interactive Interpreter) I would strongly recommend [Ipython](https://ipython.org/). It is much more powerful than the default REPL with tab completion, syntax highlighting shell functionality and a powerful help system. Jupyter notebooks - formerly known as Ipython notebooks - are a way to save interactive sessions and their output in a way that Github knows to render - see: [example 1](sys-introspection.ipynb) and [example 2](introspection.ipynb).
+If you want to try these things in a [REPL](https://docs.python.org/2/tutorial/interpreter.html#interactive-mode) (Read Eval Print Loop - a.k.a. Interactive Interpreter) I would strongly recommend [Ipython](https://ipython.org/). It is much more powerful than the default REPL. It offers tab completion, syntax highlighting, shell functionality and a better help system. In addition Jupyter notebooks - formerly known as Ipython notebooks - are a way to save interactive sessions and their output in a way that Github knows to render - see: [example 1](sys-introspection.ipynb) and [example 2](introspection.ipynb).
 
 ## The PyCharm way of introspection
 
