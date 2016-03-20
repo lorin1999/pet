@@ -65,9 +65,16 @@ Thanks to `functools.total_ordering` not a gotcha anymore ..._
 
 [example](lists-vs-generators.py)
 
+# circular imports
+
+# Import traps
+
+[import trapts](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html)
 
 # More
+
 
 [python gotchas](https://pythonconquerstheuniverse.wordpress.com/category/python-gotchas/)
 
 [common mistakes](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)
+
