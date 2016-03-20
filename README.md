@@ -11,5 +11,5 @@ Materials for an ongoing course with [CodeCats](http://codecats.io/) at the [Zep
 * [execution model](containers/containers.md)
 * [typing](typing.md)
 * [privacy](privacy.py)
-* [imports](imports)
+* [imports](imports/imports.md)
 * [gotchas](gotchas/gotchas.md)
