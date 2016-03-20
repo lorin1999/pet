@@ -20,6 +20,6 @@ A lot of other languages have so called `constants` (something you set once and 
 
 *Don't get your hopes up :)*
 
-There are definitely ways to modify an existing binding in a way that it acts more like a constant. Because if you think about it, having a constant just means that an Exception is raised if your program tries to change that binding. This is definitely possible and it has been done. If you really need to do this at some point of your programming life, you will find ways to do this. That's all I will say for now.
+There are definitely ways to modify a program in a way that bindings can act like constants. Because if you think about it, having a constant just means that you have an object, which raises an Exception if a value that was once set is being changed. This is definitely possible and it has been done. If you really need to do this at some point of your programming life, you will find ways to do this. [That's all I will say for now](http://code.activestate.com/recipes/65207-constants-in-python/?in=user-97991).
 
 There are also ways to create more rigid restrictions to attribute access and information hiding. But these are advanced topics and you definitely don't need to know about them just yet.
