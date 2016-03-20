@@ -1,8 +1,8 @@
-# def is a an statement that creates a function object
+# Mutable objects as default arguments 
 
 `def fun(kw=[])` creates a function object and binds it to the current namespace (e.g. the module namespace if the definition is in a module).
 
-the default arguments are evaluated exactly once as part of that object creation. The objects defined in default args are also created and bound to the same namespace.
+The default arguments are evaluated exactly once as part of the function object creation. The objects defined as default arguments are also created and bound to the same namespace.
 
 # Ambiguous meaning of the dot
 

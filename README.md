@@ -5,12 +5,21 @@ Materials for an ongoing course with [CodeCats](http://codecats.io/) at the [Zep
 
 ![logo](logo.png) 
 
+## Finished Modules 
+
+* Please move on - there is nothing to see here
+
 ## Modules that are vaguely informative already
 
-* [introspection](introspection/introspection.md)
-* [typing](typing.md)
-* [containers](containers/containers.md)
-* [execution model](execution-model/execution-model.md)
-* [imports](imports/imports.md)
-* [access](access/access.md)
-* [gotchas](gotchas/gotchas.md)
+* [execution model](execution-model/main.md)
+* [typing](typing/main.md)
+* [containers](containers/main.md)
+* [namespaces](introspection/main.md)
+* [introspection](introspection/main.md)
+* [introspection](introspection/main.md)
+
+### Modules that need more work
+
+* [imports](imports/main.md)
+* [access](access/main.md)
+* [gotchas](gotchas/main.md)

@@ -11,5 +11,8 @@ https://virtualenv.pypa.io
 
 https://pip.pypa.io/en/stable/
 
-# Structure
+# Ipython
 
+# Jupyter
+
+# PyCharm
