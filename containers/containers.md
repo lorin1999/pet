@@ -10,7 +10,7 @@ That depends on the container. Lists are the most welcoming containers, you can 
 
 ## Native Containers are iterable
 
-All native container types can be iterated over by using a `for ... in` loop : [demo](iterating.ipynb)
+All native container types can be iterated over by using a `for ... in` loop ([demo](iterating.ipynb))
 
 ## What turns an object into a container? 
 
