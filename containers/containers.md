@@ -8,13 +8,31 @@ Containers and the intuitive way of working with them are one of the features of
 
 That depends on the container. Lists are the most welcoming containers, you can put in anything. Other containers (e.g. sets and tuples and dicts for their keys) need something hashable (we see that later in demo).
 
-## Containers are iterable
+## Native Containers are iterable
 
-All native container types 
+All native container types are iterable by using the following central looping construct):
 
-## What makes a container out of an object? 
+```python
+for element in [1, 's', [1, 3], 1j]:
+    print element
 
-If the objects has a `__contains__` method it is a container and you can use the `in` operator to check if an object is in your container.
+for letter in "some string":
+    print letter
+
+mydict = {'k1': 1, 'k2': 2}
+for key in mydict:
+    print key, mydict[key]
+    
+for key, value in {'k1': 1, 'k2': 2}.items():
+    print key, value
+    
+```
+
+## What turns an object into a container? 
+
+One central language mechanic of Python is the idea of simple protocols implementing functionality that is accessed by central language constructs. If a user defined class implements these protocols they can be used just like native objects with those capabilities.
+
+To turn a class into a container the object needs a `__contains__` method that takes one value that needs to be checked for containment. If that is the case you can use the `in` operator to check if an object is in your container just like you would do with a native list or dictionary.
 
 ```python
 myObject = 1
