@@ -15,7 +15,7 @@ http://stackoverflow.com/questions/15077627/python-locals-for-containing-scope
 
 If you start to get really curious to find out more about the guts of a Python script in execution you might encounter a few surprises.
 
-If everything is just an object and namespaces are just dictionaries bound to e.g. modules containing all objects in scope ... where are they? (locals(), globals()) [link](http://www.diveintopython.net/html_processing/locals_and_globals.html)
+If everything is just an object and namespaces are just dictionaries bound to e.g. modules containing all objects in scope ... where are they? (locals(), globals())
 
 runtime error iterating over locals / (globals?)
 
