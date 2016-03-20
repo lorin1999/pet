@@ -7,9 +7,9 @@ Materials for an ongoing course with [CodeCats](http://codecats.io/) at the [Zep
 ## Modules that are vaguely informative already
 
 * [introspection](introspection/introspection.md)
-* [containers](containers/containers.md)
-* [execution model](containers/containers.md)
 * [typing](typing.md)
-* [privacy](privacy.py)
+* [containers](containers/containers.md)
+* [execution model](execution-model/execution-model.md)
 * [imports](imports/imports.md)
+* [privacy](privacy.py)
 * [gotchas](gotchas/gotchas.md)
