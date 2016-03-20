@@ -6,7 +6,7 @@ http://www.diveintopython.net/html_processing/locals_and_globals.html
 
 One potential hazard is namespace pollution. Thoughtless use of `from module import *` might fill the namespace with unnecessary, confusing and maybe even harmful cruft that shadows builtins.
 
-[closures](namespaces.py)
+[namespaces](namespaces.py)
 
 # Closures / nested scopes
 
