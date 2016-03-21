@@ -1,6 +1,6 @@
 import logging
 
-from _tools.conf import OUTPUT_PATH
+from .conf import OUTPUT_PATH
 from .slides import generate_slides
 
 
