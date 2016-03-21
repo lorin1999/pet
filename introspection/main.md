@@ -25,7 +25,7 @@ Here is a good [old-school tutorial](http://www.ibm.com/developerworks/library/l
 
 ## Ipython: Python interpreter on Steroids
 
-If you want to try these things in a [REPL](https://docs.python.org/2/tutorial/interpreter.html#interactive-mode) (Read Eval Print Loop - a.k.a. Interactive Interpreter) I would strongly recommend [Ipython](https://ipython.org/). It is much more powerful than the default REPL. It offers tab completion, syntax highlighting, shell functionality, prettier Tracebacks and a better help system. 
+If you want to try these things in a [REPL](https://docs.python.org/2/tutorial/interpreter.html#interactive-mode) (Read Eval Print Loop - a.k.a. Interactive mode) I would strongly recommend [Ipython](https://ipython.org/). It is much more powerful than the default REPL. It offers tab completion, syntax highlighting, shell functionality, prettier Tracebacks and a better help system. 
 
 [You can even play with it in the browser](https://www.pythonanywhere.com/try-ipython/)
 
