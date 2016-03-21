@@ -27,8 +27,11 @@ Materials for an ongoing course with [CodeCats](http://codecats.io/) at the [Zep
 * [Official docs portal](https://www.python.org/doc/)
 * [Official Python2 documentation](https://docs.python.org/2/)
 * [Official Python3 documentation](https://docs.python.org/3/)
-* [Nick Coghlan's Python Notes](http://python-notes.curiousefficiency.org/en/latest/index.html)
 * [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
+
+Slightly / wildly advanced stuff:
+
+* [Nick Coghlan's Python Notes](http://python-notes.curiousefficiency.org/en/latest/index.html)
 * [Python Language on c2wiki](http://c2.com/cgi/wiki?PythonLanguage)
 
 ### Learning Python
