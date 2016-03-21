@@ -8,7 +8,7 @@ See [resources](resources.md) for a collection of Python related resources.
 
 * [introspection](introspection/main.md)
 
-## Modules that are vaguely informative already
+### Modules that are vaguely informative already
 
 * [execution model](execution-model/main.md)
 * [typing](typing/main.md)
@@ -21,8 +21,6 @@ See [resources](resources.md) for a collection of Python related resources.
 * [access](access/main.md)
 * [gotchas](gotchas/main.md)
 * [internals](internals/main.md)
-
-#############
 
 ## Good resources
 
@@ -64,12 +62,6 @@ See [resources](resources.md) for a collection of Python related resources.
 ### Germany specific
 
 * [Python Software Verband](http://pysv.org)
-
-
-############
-
-
-
 
 # Licenses
 
