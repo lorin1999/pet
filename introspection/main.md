@@ -51,9 +51,9 @@ With the classic ways of introspection out of the way we can now look at using P
 
 PyCharm offers a lot of actions to provide information about elements of your project. The most useful here are:
 
-* Quick Documentation
-* Quick Definition
-* Go to Declaration
+* [Quick Documentation](https://www.jetbrains.com/help/pycharm/5.0/viewing-inline-documentation.html)
+* [Quick Definition](https://www.jetbrains.com/help/pycharm/5.0/viewing-definition.html)
+* [Go to Declaration](https://www.jetbrains.com/help/pycharm/5.0/navigating-to-declaration-or-type-declaration-of-a-symbol.html)
 
 Invoking any of those actions with the cursor over a piece of code will provide more insight about that object.
 
