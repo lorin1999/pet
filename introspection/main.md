@@ -37,7 +37,7 @@ In addition Jupyter notebooks - formerly known as Ipython notebooks - are a way 
  
 The following examples demonstrate some more introspection activities with the help of Jupyter notebooks: 
  
-* [basics](introspection-basics.ipynb) 
+* [Basic Introspection](introspection-basics.ipynb) 
 * [Accessing system information](introspection-system.ipynb) 
 * [A simple introspection function](introspection-function.ipynb).
 
