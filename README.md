@@ -39,7 +39,6 @@ Slightly / wildly advanced stuff:
 #### Written Guides
 
 * Official Tutorial: [(Py2)](https://docs.python.org/2/tutorial/) [(Py3)](https://docs.python.org/3/tutorial/)
-
 * Python Module of the week (stdlib): [(Py2)](https://pymotw.com/2/) [(Py3)](https://pymotw.com/3/)
 
 #### Video courses
