@@ -14,5 +14,5 @@ setup(
         'plumbum',
     ],
     packages=['_tools'],
-    entry_points={'console_scripts': ['make = _tools.ub:main']},
+    entry_points={'console_scripts': ['pc-make = _tools.make:main']},
 )

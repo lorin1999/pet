@@ -1,8 +1,10 @@
 import logging
 
-from plumbum import LocalPath
+from plumbum import local
 # noinspection PyUnresolvedReferences
 from plumbum.cmd import jupyter
+
+from .conf import PROJECT_PATH, OUTPUT_PATH
 
 log = logging.getLogger(__name__)
 
@@ -15,21 +17,21 @@ NO_EXECUTE_NOTEBOOKS = [
 
 
 def make_slides(path):
+    # FIXME why does this not work? '--output=%s' % (OUTPUT_PATH)
     args = ['nbconvert', path, '--to=slides']
     if not any(name in path for name in NO_EXECUTE_NOTEBOOKS):
         args.append('--execute')
-    # if you want to use stdlib tools, you can use the subprocess module
-    jupyter(*args)
+    # workaround: run converter directly in output folder
+    with local.cwd(OUTPUT_PATH):
+        jupyter(*args)
 
 
 def filter_non_project_paths(p):
     return not any(name in p for name in BAD_FOLDER_NAMES)
 
 
-def main():
-    projectPath = LocalPath(__file__).dirname.up()
-    """:type: LocalPath"""
-    for path in sorted(projectPath.walk(
+def generate_slides():
+    for path in sorted(PROJECT_PATH.walk(
             dir_filter=filter_non_project_paths,
             filter=lambda p: p.endswith('.ipynb'))):
         log.info('create slides from %s', path)
@@ -37,5 +39,4 @@ def main():
 
 
 if __name__ == '__main__':
-    logging.basicConfig(level=logging.DEBUG)
-    main()
+    generate_slides()
