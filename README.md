@@ -4,7 +4,9 @@ Materials for an ongoing course with [CodeCats](http://codecats.io/) at the [Zep
 
 See [resources](resources.md) for a collection of Python related resources.
 
-## Finished Modules 
+## Course modules
+
+### Finished Modules 
 
 * [introspection](introspection/main.md)
 
