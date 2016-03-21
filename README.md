@@ -1,8 +1,6 @@
-# Python Course Materials
+# ![logo](logo.png) Python Course Materials
 
 Materials for an ongoing course with [CodeCats](http://codecats.io/) at the [Zeppelin University](https://www.zu.de/). 
-
-![logo](logo.png)
 
 ## Finished Modules 
 
