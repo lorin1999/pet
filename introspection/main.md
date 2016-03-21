@@ -33,13 +33,13 @@ If you want to try these things in a [REPL](https://docs.python.org/2/tutorial/i
 
 In addition Jupyter notebooks - formerly known as Ipython notebooks - are a way to save interactive sessions and their output in a way that Github knows to render.
  
- The following examples demonstrate some more introspection activities with the help of Jupyter notebooks: 
+The following examples demonstrate some more introspection activities with the help of Jupyter notebooks: 
  
-[Try Jupyter online](https://try.jupyter.org/).
+* [basics](introspection-basics.ipynb) 
+* [Accessing system information](sys-introspection.ipynb) 
+* [A simple introspection function](introspection-function.ipynb).
 
- * [basics](introspection-basics.ipynb) 
- * [Accessing system information](sys-introspection.ipynb) 
- * [A simple introspection function](introspection-function.ipynb).
+[Try Jupyter online](https://try.jupyter.org/).
 
 ## The PyCharm way of introspection
 
