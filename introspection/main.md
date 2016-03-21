@@ -27,6 +27,8 @@ Here is a good [old-school tutorial](http://www.ibm.com/developerworks/library/l
 
 If you want to try these things in a [REPL](https://docs.python.org/2/tutorial/interpreter.html#interactive-mode) (Read Eval Print Loop - a.k.a. Interactive mode) I would strongly recommend [Ipython](https://ipython.org/). It is much more powerful than the default REPL. It offers tab completion, syntax highlighting, shell functionality, prettier Tracebacks and a better help system. 
 
+As an example for the nicer help system: instead of typing `help(sys)` you can type `sys?` to see the documentation and `sys??` to see the source code of the object you are interested in.
+
 [Try Ipython online](https://www.pythonanywhere.com/try-ipython/).
 
 ### Interactive Notebooks in the Browser
@@ -36,7 +38,7 @@ In addition Jupyter notebooks - formerly known as Ipython notebooks - are a way 
 The following examples demonstrate some more introspection activities with the help of Jupyter notebooks: 
  
 * [basics](introspection-basics.ipynb) 
-* [Accessing system information](sys-introspection.ipynb) 
+* [Accessing system information](introspection-system.ipynb) 
 * [A simple introspection function](introspection-function.ipynb).
 
 [Try Jupyter online](https://try.jupyter.org/).
