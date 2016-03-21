@@ -40,7 +40,6 @@ Slightly / wildly advanced stuff:
 
 * [Official Tutorial (Py2)](https://docs.python.org/2/tutorial/)
 * [Official Tutorial (Py3)](https://docs.python.org/3/tutorial/)
-* [Hitchhiker resources](http://docs.python-guide.org/en/latest/intro/learning/)
 * [Python Module of the week (Py2)](https://pymotw.com/2/)
 * [Python Module of the week (Py3)](https://pymotw.com/3/)
 
