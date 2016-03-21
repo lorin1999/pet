@@ -17,7 +17,11 @@
 
 Here is a good [old-school tutorial](http://www.ibm.com/developerworks/library/l-pyint/) to introspection if you want to explore that a bit more.
 
-### Better interactive exploration
+### Tools for exploration
+
+## PythonTutor: Visualize code execution
+
+[PythonTutor](http://www.pythontutor.com/visualize.html) is a great tool to understand what exactly going on, when executing simple Python code. It started as a research tool and is growing even new languages now.
 
 ## Ipython: Python interpreter on Steroids
 
