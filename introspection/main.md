@@ -59,7 +59,7 @@ Invoking any of those actions with the cursor over a piece of code will provide 
 
 You can query this information directly from the search popups to inspect the objects. As an example: If you want to know what you project contains to do with files you just type "file" in the "Search Everywhere" popup and get offered the file builtin, you can scroll down to that entry and invoke the Quick Documentation action and you see the documentation including a link to the external documentation on the web.
 
-### Exploring the Structure
+## Exploring the Structure
 
 ### Structure Tool Window
 
