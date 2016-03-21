@@ -6,23 +6,34 @@
 
 ## Classic introspection
 
-* `id` returns an int that is the unique id for that object in memory
-* `dir` takes an object and returns a list of all attribute names. With those you can explore the object further.
 * `help` takes an object and prints the documentation for that object.
+* `dir` takes an object and returns a list of all attribute names. With those you can explore the object further.
 * `type` takes an object and returns a string representation of its type.
 * `isinstance` tells you if the object is an instance of a given type
 * the [inspect module](https://docs.python.org/2/library/inspect.html) contains a lot of useful functions for even more advanced introspection of live objects
 * the [sys module](https://docs.python.org/2/library/sys.html#module-sys) contains information about the Python interpreter itself and the system the interpreter is running on. `sys.argv` is a list of command line arguments passed to the running script.
-* the [sysconfig](https://docs.python.org/2/library/sysconfig.html#module-sysconfig) provides access to Python's configuration information like the list of installation paths and the configuration variables relevant for the current platform.
+* the [sysconfig](https://docs.python.org/2/library/sysconfig.html#module-sysconfig) module provides access to Python's configuration information like the list of installation paths and the configuration variables relevant for the current platform.
+* `id` returns an int that is the unique id for that object in memory
 
 Here is a good [old-school tutorial](http://www.ibm.com/developerworks/library/l-pyint/) to introspection if you want to explore that a bit more.
 
 ### Better interactive exploration
 
-If you want to try these things in a [REPL](https://docs.python.org/2/tutorial/interpreter.html#interactive-mode) (Read Eval Print Loop - a.k.a. Interactive Interpreter) I would strongly recommend [Ipython](https://ipython.org/). It is much more powerful than the default REPL. It offers tab completion, syntax highlighting, shell functionality, prettier Tracebacks and a better help system. In addition Jupyter notebooks - formerly known as Ipython notebooks - are a way to save interactive sessions and their output in a way that Github knows to render.
+## Ipython: Python interpreter on Steroids
+
+If you want to try these things in a [REPL](https://docs.python.org/2/tutorial/interpreter.html#interactive-mode) (Read Eval Print Loop - a.k.a. Interactive Interpreter) I would strongly recommend [Ipython](https://ipython.org/). It is much more powerful than the default REPL. It offers tab completion, syntax highlighting, shell functionality, prettier Tracebacks and a better help system. 
+
+[You can even play with it in the browser](https://www.pythonanywhere.com/try-ipython/)
+
+## Interactive Notebooks in the Browser
+
+In addition Jupyter notebooks - formerly known as Ipython notebooks - are a way to save interactive sessions and their output in a way that Github knows to render.
  
  The following examples demonstrate some more introspection activities with the help of Jupyter notebooks: 
  
+ [You can also try this in the Browser](https://try.jupyter.org/)
+
+ * [basics](introspection-basics.ipynb) 
  * [Accessing system information](sys-introspection.ipynb) 
  * [A simple introspection function](introspection-function.ipynb).
 

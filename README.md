@@ -1,8 +1,8 @@
-# Python Course Materials (early stages)
+# Python Course Materials
 
 Materials for an ongoing course with [CodeCats](http://codecats.io/) at the [Zeppelin University](https://www.zu.de/). 
 
-![logo](logo.png) 
+![logo](logo.png)
 
 ## Finished Modules 
 
@@ -22,3 +22,9 @@ Materials for an ongoing course with [CodeCats](http://codecats.io/) at the [Zep
 * [access](access/main.md)
 * [gotchas](gotchas/main.md)
 * [internals](internals/main.md)
+
+# Licenses
+
+Code is under MIT license and content is CC BY-NC-SA 4.0
+
+[![code license](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/License_icon-mit-2.svg/32px-License_icon-mit-2.svg.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/) [![content license](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
