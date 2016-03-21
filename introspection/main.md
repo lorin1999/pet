@@ -31,9 +31,9 @@ As an example for the nicer help system: instead of typing `help(sys)` you can t
 
 [Try Ipython online](https://www.pythonanywhere.com/try-ipython/).
 
-### Interactive Notebooks in the Browser
+### Jupyter: Interactive Notebooks
 
-In addition Jupyter notebooks - formerly known as Ipython notebooks - are a way to save interactive sessions and their output in a way that Github knows to render.
+Jupyter notebooks - formerly known as Ipython notebooks - are a way to write code snippets with it's output interwoven with content in interactive sessions in the browser. The results can be saved and rendered in many different output formats. Github renders these Notebooks by default.
  
 The following examples demonstrate some more introspection activities with the help of Jupyter notebooks: 
  
