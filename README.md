@@ -2,13 +2,14 @@
 
 Materials for an ongoing course with [CodeCats](http://codecats.io/) at the [Zeppelin University](https://www.zu.de/). 
 
+See [resources](resources.md) for a collection of Python related resources.
+
 ## Finished Modules 
 
-* Please move on - there is nothing to see here
+* [introspection](introspection/main.md)
 
 ## Modules that are vaguely informative already
 
-* [introspection](introspection/main.md)
 * [execution model](execution-model/main.md)
 * [typing](typing/main.md)
 * [containers](containers/main.md)
