@@ -4,15 +4,15 @@
 * [Python2](https://docs.python.org/2/)
 * [Python3](https://docs.python.org/3/)
 
-# General information about Python from other sources
+# Information from other sources
 
 * [Nick Coghlan's Python Notes](http://python-notes.curiousefficiency.org/en/latest/index.html)
 * [http://docs.python-guide.org/en/latest/](http://docs.python-guide.org/en/latest/)
 * [Python Language on c2wiki](http://c2.com/cgi/wiki?PythonLanguage)
 
-# Resources for learning Python
+# Learning Python
 
-## Written
+## Written Guides
 
 * [Official Tutorial (Py2)](https://docs.python.org/2/tutorial/)
 * [Official Tutorial (Py3)](https://docs.python.org/3/tutorial/)
@@ -20,11 +20,11 @@
 * [Python Module of the week (Py2)](https://pymotw.com/2/)
 * [Python Module of the week (Py3)](https://pymotw.com/3/)
 
-## Video
+## Video courses
 
 * [Learn Python through public data hacking](https://www.youtube.com/watch?v=RrPZza_vZ3w)
 
-# Mailing Lists and other communication channels
+# Mailing Lists / communication channels
 
 * [Mailing lists overview](https://mail.python.org/mailman/listinfo)
 * [help (for asking questions)](https://mail.python.org/mailman/listinfo/python-help)
@@ -33,7 +33,7 @@
 * [dev (for core devs)](https://mail.python.org/mailman/listinfo/python-list)
 * [IRC](https://www.python.org/community/irc/)
 
-# Python News and Communication channels
+# News
 
 * [Planet Python](http://planetpython.org/)
 * [Podcast: Talk Python to me](https://talkpython.fm/)
