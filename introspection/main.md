@@ -17,19 +17,19 @@
 
 Here is a good [old-school tutorial](http://www.ibm.com/developerworks/library/l-pyint/) to introspection if you want to explore that a bit more.
 
-### Tools for exploration
+## Tools for exploration
 
-## PythonTutor: Visualize code execution
+### PythonTutor: Visualize code execution
 
 [PythonTutor](http://www.pythontutor.com/visualize.html) is a great tool to understand what exactly going on, when executing simple Python code. It started as a research tool and is growing even new languages now.
 
-## Ipython: Python interpreter on Steroids
+### Ipython: Python interpreter on Steroids
 
 If you want to try these things in a [REPL](https://docs.python.org/2/tutorial/interpreter.html#interactive-mode) (Read Eval Print Loop - a.k.a. Interactive mode) I would strongly recommend [Ipython](https://ipython.org/). It is much more powerful than the default REPL. It offers tab completion, syntax highlighting, shell functionality, prettier Tracebacks and a better help system. 
 
 [Try Ipython online](https://www.pythonanywhere.com/try-ipython/).
 
-## Interactive Notebooks in the Browser
+### Interactive Notebooks in the Browser
 
 In addition Jupyter notebooks - formerly known as Ipython notebooks - are a way to save interactive sessions and their output in a way that Github knows to render.
  
@@ -45,7 +45,7 @@ In addition Jupyter notebooks - formerly known as Ipython notebooks - are a way 
 
 With the classic ways of introspection out of the way we can now look at using PyCharm for introspection and code exploration. The capabilities for code exploration and introspection are built on top of the languages capabilities for introspection offering a convenient interface to them.
 
-## Reading documentation and source code
+### Reading documentation and source code
 
 PyCharm offers a lot of actions to provide information about elements of your project. The most useful here are:
 
@@ -57,7 +57,7 @@ Invoking any of those actions with the cursor over a piece of code will provide 
 
 You can query this information directly from the search popups to inspect the objects. As an example: If you want to know what you project contains to do with files you just type "file" in the "Search Everywhere" popup and get offered the file builtin, you can scroll down to that entry and invoke the Quick Documentation action and you see the documentation including a link to the external documentation on the web.
 
-## Exploring the Structure
+### Exploring the Structure
 
 ### Structure Tool Window
 
