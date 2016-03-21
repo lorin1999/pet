@@ -6,14 +6,14 @@
 
 ## Classic introspection
 
-* `help` takes an object and prints the documentation for that object.
-* `dir` takes an object and returns a list of all attribute names. With those you can explore the object further.
-* `type` takes an object and returns a string representation of its type.
-* `isinstance` tells you if the object is an instance of a given type
+* [`help`](https://docs.python.org/2/library/functions.html#help) takes an object and prints the documentation for that object.
+* [`dir`](https://docs.python.org/2/library/functions.html#dir) takes an object and returns a list of all attribute names. With those you can explore the object further.
+* [`type`](https://docs.python.org/2/library/functions.html#type) takes an object and returns a string representation of its type.
+* [`isinstance`](https://docs.python.org/2/library/functions.html#isinstance) tells you if the object is an instance of a given type
 * the [inspect module](https://docs.python.org/2/library/inspect.html) contains a lot of useful functions for even more advanced introspection of live objects
 * the [sys module](https://docs.python.org/2/library/sys.html#module-sys) contains information about the Python interpreter itself and the system the interpreter is running on. `sys.argv` is a list of command line arguments passed to the running script.
 * the [sysconfig](https://docs.python.org/2/library/sysconfig.html#module-sysconfig) module provides access to Python's configuration information like the list of installation paths and the configuration variables relevant for the current platform.
-* `id` returns an int that is the unique id for that object in memory
+* [`id`](https://docs.python.org/2/library/functions.html#id) returns an int that is the unique id for that object in memory
 
 Here is a good [old-school tutorial](http://www.ibm.com/developerworks/library/l-pyint/) to introspection if you want to explore that a bit more.
 
