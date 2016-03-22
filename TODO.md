@@ -1,3 +1,7 @@
+# Central "advanced" concepts that beginners should know about.
+
+**Collect topics**
+
 # Get live slide shows to work in Jupyter
 
 http://www.damian.oquanta.info/posts/make-your-slides-with-ipython.html

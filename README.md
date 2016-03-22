@@ -2,6 +2,14 @@
 
 Materials for an ongoing course with [CodeCats](http://codecats.io/) at the [Zeppelin University](https://www.zu.de/). 
 
+## Prologue: Expect a lot of Python
+
+> [...] become more demanding of Python. Pretend that Python is a magic wand that will miraculously do whatever you want without you needing to lifting a finger. Ask, "how does Python already solve my problem?" and "What Python language feature most resembles my problem?" You will be absolutely astonished at how often it happens that thing you need is already there in some form. In fact, this phenomenon is so common, even among experienced Python programmers, that the Python community has a name for it. We call it "Guido's time machine", because sometimes it seems as though that's the only way he could've known what we needed, before we knew it ourselves.
+
+> -- [PJ Eby - Python is not Java](http://dirtsimple.org/2004/12/python-is-not-java.html)
+
+It is possible to become productive with Python very fast - even as an absolute beginner in programming. This has a lot to do with the design of the language. It is optimized for people instead of machines. It als comes with batteries included, which means, that there are a lot of problems solved for you already and you don't have to reinvent the wheel every time you are trying to build something.
+
 ## Course modules
 
 ### Finished Modules 
