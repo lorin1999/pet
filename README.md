@@ -47,8 +47,8 @@ Generally there are a lot of good talks and tutorial videos from the many Python
 
 * [Learn Python through public data hacking](https://www.youtube.com/watch?v=RrPZza_vZ3w)
 
- [Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go)
- [Beyond PEP8](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+* [Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go)
+* [Beyond PEP8](https://www.youtube.com/watch?v=wf-BqAjZb8M)
  
 The talks from the Pyhon creator and [BDFL](https://de.wikipedia.org/wiki/Benevolent_Dictator_for_Life) [Guido van Rossum](https://www.python.org/~guido/) are always also [worth watching](https://www.youtube.com/watch?v=ugqu10JV7dk)
 
