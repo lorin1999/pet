@@ -91,8 +91,7 @@ The talks from the Python creator and [BDFL](https://de.wikipedia.org/wiki/Benev
 * [Python Software Verband](http://pysv.org)
 * [User groups in Germany](http://python-verband.org/mitmachen/ug)
 * [Python Unconference in Hamburg](http://www.pyunconf.de/)
-* [Pythoncamp Cologne](https://barcamptools.eu/pycamp201604)
-
+* [Pythoncamp Cologne](https://barcamptools.eu/pycamp201604) I'll include camps in english in the future
 # Licenses
 
 Code is under MIT license and content is CC BY-NC-SA 4.0
