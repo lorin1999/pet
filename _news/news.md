@@ -12,6 +12,13 @@ We made sure that everybody has ...
 
 ## What we learned (hopefully ;))
 
+### Basic tools
+
+* [Markdown](https://guides.github.com/features/mastering-markdown/) (extension .md) for writing formatted text that renders nicely e.g. on Github and can be converted into a lot of different formats.
+* [Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) for Version Control
+* [Github](https://github.com/) for collaboration (and accessing these materials)
+* [Pull Requests (PRs)](https://help.github.com/articles/using-pull-requests/) for proposing changes
+
 ### Spaces (and other special characters) in file names are evil
 
 ![[spaces in filenames are evil](spaces-in-filenames-are-evil.jpg)](http://superuser.com/a/29117/381937)
@@ -45,9 +52,7 @@ Here are some articles that throw some light on the debate (yes ... there are pe
 * [Python White Space Discussion](http://c2.com/cgi/wiki?PythonWhiteSpaceDiscussion)
 ### Everything in Python is an object (even functions and classes)
 
-In this [Python Online Tutor example](http://goo.gl/Gkw2k) you can see how everything in a running Python program is an object. What you can do with those objects, we will explore next time.
-
-TODO PYFILE
+In this [Python Online Tutor example](http://goo.gl/Yqt7hL) you can see how everything in a running Python program is an object. What you can do with those objects, we will explore next time.
 
 ### Easter eggs
 
