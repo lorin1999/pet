@@ -47,12 +47,17 @@ Use Jupyter without installing it:
 * [Try Jupyter online](https://try.jupyter.org/)
 * [Wakari Notebook Hosting](https://wakari.io)
 
-## Exploration and Introspection with a good IDE
+### Exploration and Introspection with a good IDE
 
+[PyCharm](https://www.jetbrains.com/pycharm/) is my IDE of choice so everything in this course referring to using an IDE will be about that, altghough I am sure that other IDEs offer similar features. Possible alternatives are:
 
-With the classic ways of introspection out of the way we can now look at using PyCharm for introspection and code exploration. The capabilities for code exploration and introspection are built on top of the languages capabilities for introspection offering a convenient interface to them.
+* [Wing IDE](https://wingware.com/)
+* [Eclipse with PyDev](http://www.pydev.org/)
+* [Even more](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments)
 
-### Reading documentation and source code
+An IDE that indexes and analyzes the Code in your project and all installed libraries is a very powerful tool to explore the language itself and learn a lot by reading source code and documentation directly where you are working with it. Powerful [debuggin support](https://www.youtube.com/watch?v=JcOCNgXXhmE&list=PLQ176FUIyIUY5Ii58pzoZhS_3qIBL80nz) also goes a long way in helping you ti understand you own or other peoples code and catch your wrong assumptions about what is supposedly going on. The capabilities for code exploration and introspection in PyCharm are built on top of the languages capabilities for introspection offering a convenient interface to them.
+
+#### Reading documentation and source code
 
 PyCharm offers a lot of actions to provide information about elements of your project. The most useful here are:
 
@@ -64,13 +69,11 @@ Invoking any of those actions with the cursor over a piece of code will provide 
 
 You can query this information directly from the search popups to inspect the objects. As an example: If you want to know what you project contains to do with files you just type "file" in the "Search Everywhere" popup and get offered the file builtin, you can scroll down to that entry and invoke the Quick Documentation action and you see the documentation including a link to the external documentation on the web.
 
-## Exploring the Structure
-
-### Structure Tool Window
+#### Structure Tool Window
 
 The [Structure Tool Window](https://www.jetbrains.com/help/idea/2016.1/structure-tool-window-file-structure-popup.html) makes all classes and functions explorable from a bird's eye perspective.
 
-### Goto Declaration and back
+### Code Navigation
 
 You can navigate the code by activating the "Goto Declaration" Action or by holding down `Ctrl` and clicking with the mouse on the object to go to the source code of the referenced object. The "Navigate Back" action (`Alt+left`) brings you back to the old position just like the history function in a web browser. This way of navigating through the code lets you see the code as a collection of connected objects instead of as just text.
 
