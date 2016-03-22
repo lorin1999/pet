@@ -42,6 +42,8 @@ The following examples demonstrate some more introspection activities with the h
 * [Accessing system information](introspection-system.ipynb) 
 * [A simple introspection function](introspection-function.ipynb).
 
+Use Jupyter without installing it:
+
 * [Try Jupyter online](https://try.jupyter.org/)
 * [Wakari Notebook Hosting](https://wakari.io)
 
