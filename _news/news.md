@@ -21,7 +21,7 @@ We made sure that everybody has ...
 
 ### Spaces (and other special characters) in file names are evil
 
-![[spaces in filenames are evil](spaces-in-filenames-are-evil.jpg)](http://superuser.com/a/29117/381937)
+[![spaces in filenames are evil](spaces-in-filenames-are-evil.jpg)](http://superuser.com/a/29117/381937)
 
 ### Quick overview about some central tools
 
