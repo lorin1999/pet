@@ -25,15 +25,16 @@ Here is a good [old-school tutorial](http://www.ibm.com/developerworks/library/l
 
 ### Ipython: Python interpreter on Steroids
 
-If you want to try these things in a [REPL](https://docs.python.org/2/tutorial/interpreter.html#interactive-mode) (Read Eval Print Loop - a.k.a. Interactive mode) I would strongly recommend [Ipython](https://ipython.org/). It is much more powerful than the default REPL. It offers tab completion, syntax highlighting, shell functionality, prettier tracebacks and a better help system. 
-
-As an example for the nicer help system: instead of typing `help(sys)` you can type `sys?` to see the documentation and `sys??` to see the source code of the object you are interested in.
+The Python interpreter has an [interactive mode](https://docs.python.org/2/tutorial/interpreter.html#interactive-mode) (more genereally known as Read Eval Print Loop - [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)). This provides a way of interactively developing and exploring program code. [Ipython](https://ipython.org/) enhances the interactive shell in many ways that provide more assistance to the explorer. Some central improvements are offers shell-like tab completion, shell commands, file completion, pretty tracebacks, magic commands (try `%quickref`) and easier introspection of live objects [(see main features)](http://ipython.readthedocs.org/en/stable/overview.html#main-features-of-the-interactive-shell). Getting help is much easier as well: instead of `help(sys)` you can type `sys?` to see the documentation and `sys??` to see the source code.
 
 [Try Ipython online](https://www.pythonanywhere.com/try-ipython/).
 
 ### Jupyter: Interactive Notebooks
 
-Jupyter notebooks - formerly known as Ipython notebooks - are a way to write code snippets with their output interwoven with content in interactive sessions in the browser. The results can be saved and rendered in many different output formats. Github renders these Notebooks by default.
+Jupyter notebooks - formerly known as Ipython notebooks - are a way to create documents that consist of code that can be executed directly from the document to fetch it's output. You can also use Markdown to create rich documents. The results can be saved and rendered in many different output formats. Github renders these Notebooks by default.
+
+* [Official Documentation](https://jupyter.readthedocs.org/en/latest/#user-docs)
+* [Alternative Manual](http://jupyter.cs.brynmawr.edu/hub/dblank/public/Jupyter%20Notebook%20Users%20Manual.ipynb#Jupyter-Notebook-Users-Manual)
 
 The following examples demonstrate some more introspection activities with the help of Jupyter notebooks: 
  
@@ -41,9 +42,11 @@ The following examples demonstrate some more introspection activities with the h
 * [Accessing system information](introspection-system.ipynb) 
 * [A simple introspection function](introspection-function.ipynb).
 
-[Try Jupyter online](https://try.jupyter.org/).
+* [Try Jupyter online](https://try.jupyter.org/)
+* [Wakari Notebook Hosting](https://wakari.io)
 
-## The PyCharm way of introspection
+## Exploration and Introspection with a good IDE
+
 
 With the classic ways of introspection out of the way we can now look at using PyCharm for introspection and code exploration. The capabilities for code exploration and introspection are built on top of the languages capabilities for introspection offering a convenient interface to them.
 
