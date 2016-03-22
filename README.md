@@ -85,6 +85,7 @@ The talks from the Python creator and [BDFL](https://de.wikipedia.org/wiki/Benev
 
 * [Python Software Foundation](https://www.python.org/psf/)
 * [List of conferences](https://www.python.org/community/workshops/)
+* [Django Girls](https://djangogirls.org/)
 
 #### Germany
 
