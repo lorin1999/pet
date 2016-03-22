@@ -19,7 +19,7 @@ We made sure that everybody has ...
 * [Github](https://github.com/) for collaboration (and accessing these materials)
 * [Pull Requests (PRs)](https://help.github.com/articles/using-pull-requests/) for proposing changes
 
-### Spaces (and other special characters) in file names are evil
+### Spaces (and other special characters) in filenames are evil
 
 [![spaces in filenames are evil](spaces-in-filenames-are-evil.jpg)](http://superuser.com/a/29117/381937)
 
