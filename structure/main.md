@@ -1,5 +1,22 @@
 # Structuring larger programs
 
+## Overview
+
+**TODO**
+
+build up
+
+* the line as the most simple meaningful level of organization
+* The block as the next step up
+* functions and data
+* classes as collection of functions and data
+* modules (mostly just a file) as collection of all of the above
+* package as collection of modules
+* hierarchical tree of packages
+* installable libraries and applications
+
+#############
+
 To better structure the code you can distribute it to different files. A Python file is called **module** and a directory containing an `__init__.py` is called **package** which serves as container for collections of modules. Packages can be nested to create hierarchical collections of packages and modules. Addressing a nested module works like describing the path to it only that you use dots to separate the parts of the path.
 
 
