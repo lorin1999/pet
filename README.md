@@ -4,6 +4,8 @@
 
 Materials for an ongoing course with [CodeCats](http://codecats.io/) at the [Zeppelin University](https://www.zu.de/). 
 
+**Check out the [updates](news.md) to see, what we did already and where we are going.**
+
 ## Prologue
 
 **Expect a lot of Python**
