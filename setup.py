@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='python-course',
-    version='0.1.0',
+    version='0.2.0-dev',
     description='Materials and tools for an introductory Python Course',
     url='https://github.com/obestwalter/python-course',
     author='Oliver Bestwalter',
