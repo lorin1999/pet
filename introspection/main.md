@@ -75,7 +75,11 @@ The [Structure Tool Window](https://www.jetbrains.com/help/idea/2016.1/structure
 
 ### Code Navigation
 
-You can navigate the code by activating the "Goto Declaration" Action or by holding down `Ctrl` and clicking with the mouse on the object to go to the source code of the referenced object. The "Navigate Back" action (`Alt+left`) brings you back to the old position just like the history function in a web browser. This way of navigating through the code lets you see the code as a collection of connected objects instead of as just text.
+There are a [lot of ways to navigate in the code](https://www.jetbrains.com/help/pycharm/5.0/navigation-in-source-code.html) which is what you do a lot, when you work with larger code bases an/or work with a lot of libraries. The best documentation is often the source code and if it's easy to have a quick look at a module you are using this often is all you need in way of documentation.
+
+You can navigate the code by activating the ["Goto Declaration"](https://www.jetbrains.com/help/pycharm/5.0/navigating-to-declaration-or-type-declaration-of-a-symbol.html) Action or by holding down `Ctrl` and clicking with the mouse on the object to go to the source code of the referenced object. The "Navigate Back" action (`Alt+left`) brings you back to the old position just like the history function in a web browser. This way of navigating through the code lets you see the code as a collection of connected objects instead of as just text.
+
+* [All resources about navigation in PyCharm](https://www.jetbrains.com/help/pycharm/5.0/navigating-to-declaration-or-type-declaration-of-a-symbol.html)
 
 ### Auto Completion
 
