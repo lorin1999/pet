@@ -2,7 +2,9 @@
 
 Materials for an ongoing course with [CodeCats](http://codecats.io/) at the [Zeppelin University](https://www.zu.de/). 
 
-## Prologue: Expect a lot of Python
+## Prologue
+
+**Expect a lot of Python**
 
 > [...] become more demanding of Python. Pretend that Python is a magic wand that will miraculously do whatever you want without you needing to lifting a finger. Ask, "how does Python already solve my problem?" and "What Python language feature most resembles my problem?" You will be absolutely astonished at how often it happens that thing you need is already there in some form. In fact, this phenomenon is so common, even among experienced Python programmers, that the Python community has a name for it. We call it "Guido's time machine", because sometimes it seems as though that's the only way he could've known what we needed, before we knew it ourselves.
 
