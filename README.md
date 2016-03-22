@@ -10,6 +10,8 @@ Materials for an ongoing course with [CodeCats](http://codecats.io/) at the [Zep
 
 It is possible to become productive with Python very fast - even as an absolute beginner in programming. This has a lot to do with the design of the language. It is optimized for people instead of machines. It als comes with batteries included, which means, that there are a lot of problems solved for you already and you don't have to reinvent the wheel every time you are trying to build something.
 
+Another reason is the maturity of the language and the huge number of useful tools and libraries (most of them [Open Source](https://en.wikipedia.org/wiki/Free_software)) that make working with Python easy and fun. With This collection of materials I will try to organize what I learned about Python and it's vast ecosystem over the years into something that will hopefully be useful for beginning and intermediate Pythonistas.
+
 ## Course modules
 
 ### Finished Modules 
