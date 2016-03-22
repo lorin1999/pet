@@ -46,7 +46,6 @@ Slightly / wildly advanced stuff:
 Generally there are a lot of good talks and tutorial videos from the many Python related conferences online, so it's always worth a look to see, if there is a talk about a technology or practice you are interested in. Some of the core developers are also giving very good talks.
 
 * [Learn Python through public data hacking](https://www.youtube.com/watch?v=RrPZza_vZ3w)
-
 * [Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go)
 * [Beyond PEP8](https://www.youtube.com/watch?v=wf-BqAjZb8M)
  
