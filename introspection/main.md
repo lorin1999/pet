@@ -85,7 +85,10 @@ You can navigate the code by activating the ["Goto Declaration"](https://www.jet
 
 This (especially in combination with "Quick Documentation" and "Quick Definition" directly from the completion popup) is actually also a very effective way to explore the code. Pycharm has basic and SmartType completion. I don't quite get the smart in smartType though ... it just offers you lots of types which are currently not imported. Auto Completion is [quite versatile](https://www.jetbrains.com/help/pycharm/5.0/auto-completing-code.html?origin=old_help).
 
-You can even use completion and query features in this markdown document (if you read the source of this file in PyCharm):
+
+#### Live Example
+
+You can even use completion and query features in this markdown document **(this only works if you have this file open in PyCharm)**:
 
 ```python
 import inspect
