@@ -60,7 +60,7 @@ The talks from the Pyhon creator and [BDFL](https://de.wikipedia.org/wiki/Benevo
 * [dev (for core devs)](https://mail.python.org/mailman/listinfo/python-list)
 * [IRC](https://www.python.org/community/irc/)
 
-### News
+### News / Podcasts
 
 * [Planet Python](http://planetpython.org/)
 * [Podcast: Talk Python to me](https://talkpython.fm/)
