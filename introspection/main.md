@@ -25,7 +25,7 @@ Here is a good [old-school tutorial](http://www.ibm.com/developerworks/library/l
 
 ### Ipython: Python interpreter on Steroids
 
-The Python interpreter has an [interactive mode](https://docs.python.org/2/tutorial/interpreter.html#interactive-mode) (more genereally known as Read Eval Print Loop - [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)). This provides a way of interactively developing and exploring program code. [Ipython](https://ipython.org/) enhances the interactive shell in many ways that provide more assistance to the explorer. Some central improvements are offers shell-like tab completion, shell commands, file completion, pretty tracebacks, magic commands (try `%quickref`) and easier introspection of live objects [(see main features)](http://ipython.readthedocs.org/en/stable/overview.html#main-features-of-the-interactive-shell). Getting help is much easier as well: instead of `help(sys)` you can type `sys?` to see the documentation and `sys??` to see the source code.
+The Python interpreter has an [interactive mode](https://docs.python.org/2/tutorial/interpreter.html#interactive-mode) (more generally known as Read Eval Print Loop - [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)). This provides a way of interactively developing and exploring program code. [Ipython](https://ipython.org/) enhances the interactive shell in many ways that provide more assistance to the explorer. Some central improvements are offers shell-like tab completion, shell commands, file completion, pretty tracebacks, magic commands (try `%quickref`) and easier introspection of live objects [(see main features)](http://ipython.readthedocs.org/en/stable/overview.html#main-features-of-the-interactive-shell). Getting help is much easier as well: instead of `help(sys)` you can type `sys?` to see the documentation and `sys??` to see the source code.
 
 [Try Ipython online](https://www.pythonanywhere.com/try-ipython/).
 
@@ -49,13 +49,13 @@ Use Jupyter without installing it:
 
 ### Exploration and Introspection with a good IDE
 
-[PyCharm](https://www.jetbrains.com/pycharm/) is my IDE of choice so everything in this course referring to using an IDE will be about that, altghough I am sure that other IDEs offer similar features. Possible alternatives are:
+[PyCharm](https://www.jetbrains.com/pycharm/) is my IDE of choice so everything in this course referring to using an IDE will be about that, although I am sure that other IDEs offer similar features. Possible alternatives are:
 
 * [Wing IDE](https://wingware.com/)
 * [Eclipse with PyDev](http://www.pydev.org/)
 * [Even more](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments)
 
-An IDE that indexes and analyzes the Code in your project and all installed libraries is a very powerful tool to explore the language itself and learn a lot by reading source code and documentation directly where you are working with it. Powerful [debuggin support](https://www.youtube.com/watch?v=JcOCNgXXhmE&list=PLQ176FUIyIUY5Ii58pzoZhS_3qIBL80nz) also goes a long way in helping you ti understand you own or other peoples code and catch your wrong assumptions about what is supposedly going on. The capabilities for code exploration and introspection in PyCharm are built on top of the languages capabilities for introspection offering a convenient interface to them.
+An IDE that indexes and analyzes the Code in your project and all installed libraries is a very powerful tool to explore the language itself and learn a lot by reading source code and documentation directly where you are working with it. Powerful [debugging support](https://www.youtube.com/watch?v=JcOCNgXXhmE&list=PLQ176FUIyIUY5Ii58pzoZhS_3qIBL80nz) also goes a long way in helping you ti understand you own or other peoples code and catch your wrong assumptions about what is supposedly going on. The capabilities for code exploration and introspection in PyCharm are built on top of the languages capabilities for introspection offering a convenient interface to them.
 
 #### Reading documentation and source code
 
