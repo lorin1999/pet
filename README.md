@@ -10,9 +10,9 @@ Materials for an ongoing course with [CodeCats](http://codecats.io/) at the [Zep
 
 > -- [PJ Eby - Python is not Java](http://dirtsimple.org/2004/12/python-is-not-java.html)
 
-It is possible to become productive with Python very fast - even as an absolute beginner in programming. This has a lot to do with the design of the language. It is optimized for people instead of machines. It als comes with batteries included, which means, that there are a lot of problems solved for you already and you don't have to reinvent the wheel every time you are trying to build something. Due to the maturity and poularity of the language there is also a huge number of useful third party tools and libraries (and many of them are [Free Software](https://www.fsf.org/about/what-is-free-software)). This mix makes working with Python easy and fun. 
+It is possible to become productive with Python very fast - even as an absolute beginner in programming. This has a lot to do with the design of the language. It is optimized for people instead of machines. It als comes with batteries included, which means, that there are a lot of problems solved for you already and you don't have to reinvent the wheel every time you are trying to build something. Due to the maturity and popularity of the language there is also a huge number of useful third party tools and libraries (and many of them are [Free Software](https://www.fsf.org/about/what-is-free-software)). This mix makes working with Python easy and fun. 
 
-With This collection of materials I try to organize what I learned about Python and its vast ecosystem over the years into something that will hopefully be useful for beginning and intermediate Pythonistas (maybe the old hands even see something, they didnt know yet).
+With this collection of materials I try to organize what I learned about Python and its vast ecosystem over the years into something that will hopefully be useful for beginning and intermediate Pythonistas (maybe the old hands even see something, they didn't know yet).
 
 ## Course modules
 
