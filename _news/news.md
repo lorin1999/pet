@@ -1,4 +1,4 @@
-# 1st Session 22.03.2016
+# 1st Session 22 March 2016
 
 ## What we did
 
