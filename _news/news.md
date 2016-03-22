@@ -4,19 +4,23 @@
 
 We made sure that everybody has ...
  
-* A Python Interpreter (**[version 2.7](https://www.python.org/download/releases/2.7/)**) installed.
+* A Python Interpreter (**[version 2.7](https://www.python.org/download/releases/2.7/)**) installed
 * [PyCharm](https://www.jetbrains.com/pycharm/download/) installed.
-* created their [first PyCharm project](https://www.jetbrains.com/help/pycharm/5.0/creating-and-running-your-first-python-project.html)
-* created a new [virtualenv](https://www.jetbrains.com/help/pycharm/5.0/creating-virtual-environment.html) attached attached to that project
+* Created their [first PyCharm project](https://www.jetbrains.com/help/pycharm/5.0/creating-and-running-your-first-python-project.html)
+* Created a new [virtualenv](https://www.jetbrains.com/help/pycharm/5.0/creating-virtual-environment.html) attached attached to that project
 * Ran their first ["Hello, world" program](https://github.com/leachim6/hello-world/blob/master/p/python.py)
 
 ## What we learned (hopefully ;))
 
+### Spaces (and other special characters) in file names are evil
+
+![[spaces in filenames are evil](spaces-in-filenames-are-evil.jpg)](http://superuser.com/a/29117/381937)
+
 ### Quick overview about some central tools
 
-See [Tools for exploration](introspection/main.md#tools-for-exploration)
+See [Tools for exploration](../introspection/main.md#tools-for-exploration)
 
-### code block separation by indentation (significant whitespace)
+### Code block separation by indentation (significant whitespace)
 
 Python is a language where space matters ... meaning  units of code (blocks, function bodies, etc.) are separated by ending a line with a colon (:) and indenting the following code belonging to that block. The block is closed by [outdenting](https://www.jetbrains.com/help/pycharm/5.0/changing-indentation.html?) the first line that should not be part of that block anymore - a.k.a. [significant whitespace](https://www.python.org/dev/peps/pep-0008/#code-lay-out).
 
@@ -39,10 +43,15 @@ Here are some articles that throw some light on the debate (yes ... there are pe
 * [Python: Myths about Indentation](http://www.secnetix.de/olli/Python/block_indentation.hawk)
 * [What is Python Whitespace and how does it work?](http://stackoverflow.com/questions/13884499/what-is-python-whitespace-and-how-does-it-work)
 * [Python White Space Discussion](http://c2.com/cgi/wiki?PythonWhiteSpaceDiscussion)
-
-### everything in Python is an object (even functions and classes)
+### Everything in Python is an object (even functions and classes)
 
 In this [Python Online Tutor example](http://goo.gl/Gkw2k) you can see how everything in a running Python program is an object. What you can do with those objects, we will explore next time.
+
+TODO PYFILE
+
+### Easter eggs
+
+Python has [insider jokes](../internals/easter-eggs.ipynb)!
 
 ## Where we go ...
 

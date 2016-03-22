@@ -2,7 +2,7 @@
 
 Materials for a course with [CodeCats](http://codecats.io/) at [Zeppelin University](https://www.zu.de/). 
 
-**Check out the [updates](news.md) to see, what we did already and where we are going.**
+**Check out the [news](_news/news.md) to see, what we did already and where we are going.**
 
 [![Gitter](https://badges.gitter.im/obestwalter/python-course.svg)](https://gitter.im/obestwalter/python-course?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
