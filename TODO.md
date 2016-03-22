@@ -9,3 +9,7 @@ see [install notebook](_tools/jupyter-installl-slideshow.ipynb)
 # Explore Jupyter extensions
 
 https://github.com/ipython-contrib/IPython-notebook-extensions
+
+# Reading list
+
+[27 languages to improve your Python](http://www.curiousefficiency.org/)
