@@ -45,7 +45,7 @@ for currentElement in range(5):
 print "I don't belong to the loop block anymore"
 ```
 
-Here are some articles that throw some light on the debate (yes ... there are people seriously arguing about the best way how to mark code blocks in programming languages)
+Here are some articles that throw some light on the debate (yes ... there are people seriously arguing about the best way how to mark code blocks in programming languages).
 
 * [Python: Myths about Indentation](http://www.secnetix.de/olli/Python/block_indentation.hawk)
 * [What is Python Whitespace and how does it work?](http://stackoverflow.com/questions/13884499/what-is-python-whitespace-and-how-does-it-work)
