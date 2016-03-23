@@ -10,7 +10,7 @@ Materials for a course with [CodeCats](http://codecats.io/) at [Zeppelin Univers
 
 ## Current assignment alert
 
-**Send me your [Pull Requests](https://help.github.com/articles/using-pull-requests/)! just add a link to your Github profile [here](codecats-on-github.md)** and see it pop up [here](https://github.com/obestwalter/python-course/pulls) and then see your name added to the [contributors](https://github.com/obestwalter/python-course/graphs/contributors).
+Send me your [Pull Requests](https://help.github.com/articles/using-pull-requests/)! just add a link to your Github profile **[in this Markdown file](codecats-on-github.md)** and see it pop up [here](https://github.com/obestwalter/python-course/pulls) and then see your name added to the [contributors](https://github.com/obestwalter/python-course/graphs/contributors).
 
 ## Gitter Chat room
 
