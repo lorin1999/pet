@@ -4,9 +4,7 @@ Materials for a course with [CodeCats](http://codecats.io/) at [Zeppelin Univers
 
 ## Updates
 
-## Check out the [NEWS](_news/news.md) 
-
-... to see, what we did already and where we are going.
+**Check out the [NEWS](_news/news.md) to see, what we did and where we are going**
 
 ## Current assignment alert
 
