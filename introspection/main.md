@@ -83,7 +83,7 @@ import inspect
 inspect.getcallargs(inspect.getargs)
 ```
 
-## Some classic introspection functions
+## Classic introspection in Python
 
 * [`help`](https://docs.python.org/2/library/functions.html#help) takes an object and prints the documentation for that object.
 * [`dir`](https://docs.python.org/2/library/functions.html#dir) takes an object and returns a list of all attribute names. With those you can explore the object further.
