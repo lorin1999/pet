@@ -23,12 +23,6 @@ Jupyter notebooks - formerly known as Ipython notebooks - are a way to create do
 * [Official Documentation](https://jupyter.readthedocs.org/en/latest/#user-docs)
 * [Alternative Manual](http://jupyter.cs.brynmawr.edu/hub/dblank/public/Jupyter%20Notebook%20Users%20Manual.ipynb#Jupyter-Notebook-Users-Manual)
 
-The following examples demonstrate some more introspection activities with the help of Jupyter notebooks: 
- 
-* [Basic Introspection](introspection-basics.ipynb) 
-* [Accessing system information](introspection-system.ipynb) 
-* [A simple introspection function](introspection-function.ipynb).
-
 Use Jupyter without installing it:
 
 * [Try Jupyter online](https://try.jupyter.org/)
@@ -96,3 +90,12 @@ inspect.getcallargs(inspect.getargs)
 
 Here is a good [old-school tutorial](http://www.ibm.com/developerworks/library/l-pyint/) to introspection if you want to explore that a bit more.
 
+### Ipython introspection demos
+
+The following examples demonstrate some more introspection activities with the help of Jupyter notebooks: 
+ 
+* [Basic Introspection](introspection-basics.ipynb) 
+* [Accessing system information](introspection-system.ipynb) 
+* [A simple introspection function](introspection-function.ipynb).
+
+If you clone this repository and install Jupyter you can open these Notebooks and experiment with them.
