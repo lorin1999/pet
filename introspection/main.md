@@ -4,19 +4,6 @@
     
 > ― C.G. Jung
 
-## Classic introspection
-
-* [`help`](https://docs.python.org/2/library/functions.html#help) takes an object and prints the documentation for that object.
-* [`dir`](https://docs.python.org/2/library/functions.html#dir) takes an object and returns a list of all attribute names. With those you can explore the object further.
-* [`type`](https://docs.python.org/2/library/functions.html#type) takes an object and returns a string representation of its type.
-* [`isinstance`](https://docs.python.org/2/library/functions.html#isinstance) tells you if the object is an instance of a given type.
-* the [inspect module](https://docs.python.org/2/library/inspect.html) contains a lot of useful functions for even more advanced introspection of live objects. See also this [great article](https://pymotw.com/2/inspect/index.html#module-inspect).
-* the [sys module](https://docs.python.org/2/library/sys.html#module-sys) contains information about the Python interpreter itself and the system the interpreter is running on. [`sys.argv`](https://docs.python.org/2/library/sys.html#sys.argv) is a list of command line arguments passed to the running script.
-* the [sysconfig](https://docs.python.org/2/library/sysconfig.html#module-sysconfig) module provides access to Python's configuration information like the list of installation paths and the configuration variables relevant for the current platform.
-* [`id`](https://docs.python.org/2/library/functions.html#id) returns an int that is the unique id for that object in memory.
-
-Here is a good [old-school tutorial](http://www.ibm.com/developerworks/library/l-pyint/) to introspection if you want to explore that a bit more.
-
 ## Tools for exploration
 
 ### PythonTutor: Visualize code execution
@@ -86,7 +73,7 @@ You can navigate the code by activating the ["Goto Declaration"](https://www.jet
 This (especially in combination with "Quick Documentation" and "Quick Definition" directly from the completion popup) is actually also a very effective way to explore the code. Pycharm has basic and SmartType completion. I don't quite get the smart in smartType though ... it just offers you lots of types which are currently not imported. Auto Completion is [quite versatile](https://www.jetbrains.com/help/pycharm/5.0/auto-completing-code.html?origin=old_help).
 
 
-#### Live Example
+#### PyCharm Auto completion works even in Markdown
 
 You can even use completion and query features in this markdown document **(this only works if you have this file open in PyCharm)**:
 
@@ -95,3 +82,17 @@ import inspect
 
 inspect.getcallargs(inspect.getargs)
 ```
+
+## Some classic introspection functions
+
+* [`help`](https://docs.python.org/2/library/functions.html#help) takes an object and prints the documentation for that object.
+* [`dir`](https://docs.python.org/2/library/functions.html#dir) takes an object and returns a list of all attribute names. With those you can explore the object further.
+* [`type`](https://docs.python.org/2/library/functions.html#type) takes an object and returns a string representation of its type.
+* [`isinstance`](https://docs.python.org/2/library/functions.html#isinstance) tells you if the object is an instance of a given type.
+* the [inspect module](https://docs.python.org/2/library/inspect.html) contains a lot of useful functions for even more advanced introspection of live objects. See also this [great article](https://pymotw.com/2/inspect/index.html#module-inspect).
+* the [sys module](https://docs.python.org/2/library/sys.html#module-sys) contains information about the Python interpreter itself and the system the interpreter is running on. [`sys.argv`](https://docs.python.org/2/library/sys.html#sys.argv) is a list of command line arguments passed to the running script.
+* the [sysconfig](https://docs.python.org/2/library/sysconfig.html#module-sysconfig) module provides access to Python's configuration information like the list of installation paths and the configuration variables relevant for the current platform.
+* [`id`](https://docs.python.org/2/library/functions.html#id) returns an int that is the unique id for that object in memory.
+
+Here is a good [old-school tutorial](http://www.ibm.com/developerworks/library/l-pyint/) to introspection if you want to explore that a bit more.
+
