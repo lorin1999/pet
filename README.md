@@ -12,7 +12,9 @@ Send me your [Pull Requests](https://help.github.com/articles/using-pull-request
 
 ## Gitter Chat room
 
-Gitter provides chat rooms which are attached to Github repositories ([features](https://en.wikipedia.org/wiki/Gitter#Features)) - I added one to this repository: [![Gitter](https://badges.gitter.im/obestwalter/python-course.svg)](https://gitter.im/obestwalter/python-course?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+Gitter provides chat rooms which are attached to Github repositories ([features](https://en.wikipedia.org/wiki/Gitter#Features)) - I added one to this repository.
+
+[![Gitter](https://badges.gitter.im/obestwalter/python-course.svg)](https://gitter.im/obestwalter/python-course)
 
 ---
 
@@ -59,4 +61,3 @@ If you have no idea about Python yet, I recommend reading the [official Tutorial
 Code is under MIT license and content is CC BY-NC-SA 4.0
 
 [![code license](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/License_icon-mit-2.svg/32px-License_icon-mit-2.svg.png)](http://opensource.org/licenses/mit-license.php) [![content license](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-
