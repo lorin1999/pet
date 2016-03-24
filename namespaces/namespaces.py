@@ -1,10 +1,11 @@
 """This is the docstring of this module"""
 
 
-def somefunc():
-    funclocal1 = 1
-    otherfunclocal = "hello"
+def some_func():
+    funcLocal = 1
+    otherFuncLocal = "hello"
     show_callers_locals()
+    print funcLocal, otherFuncLocal
 
 
 def show_globals():
@@ -36,4 +37,4 @@ klassInstance = Klass()
 
 show_callers_locals()
 show_globals()
-somefunc()
+some_func()
