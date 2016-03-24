@@ -6,7 +6,7 @@ Materials for [CodeCats](http://codecats.io/) sessions at [Zeppelin University](
 
 **Check out the [NEWS](_news/news.md) to see, what we did and where we are going**
 
-## Current assignment alert
+### Current assignment alert
 
 Send me your [Pull Requests](https://help.github.com/articles/using-pull-requests/)! just add a link to your Github profile **[in this Markdown file](codecats-on-github.md)** and see it pop up [here](https://github.com/obestwalter/python-course/pulls) and then see your name added to the [contributors](https://github.com/obestwalter/python-course/graphs/contributors).
 
