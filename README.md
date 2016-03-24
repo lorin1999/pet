@@ -10,7 +10,7 @@ Materials for [CodeCats](http://codecats.io/) sessions at [Zeppelin University](
 
 Send me your [Pull Requests](https://help.github.com/articles/using-pull-requests/)! just add a link to your Github profile **[in this Markdown file](codecats-on-github.md)** and see it pop up [here](https://github.com/obestwalter/python-course/pulls) and then see your name added to the [contributors](https://github.com/obestwalter/python-course/graphs/contributors).
 
-## Gitter Chat room
+### Gitter Chat room
 
 Gitter provides chat rooms which are attached to Github repositories ([features](https://en.wikipedia.org/wiki/Gitter#Features)) - I added one to this repository.
 
