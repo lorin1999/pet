@@ -1,4 +1,4 @@
-Python Course # ![logo](logo.png) 
+# Python Course ![logo](logo.png) 
 
 Materials for [CodeCats](http://codecats.io/) sessions at [Zeppelin University](https://www.zu.de/). 
 
