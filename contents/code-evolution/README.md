@@ -1,13 +1,3 @@
-# APIs are everywhere
+# Code is not designed - it evolves
 
-# Agnostic libs for accessing Web APIs
-
-* https://github.com/ducksboard/libsaas
-* https://github.com/jpaugh/agithub
-
-## Explore Python GitHub API libs
-
-* https://github.com/sigmavirus24/github3.py
-* https://github.com/PyGithub/PyGithub
-* https://github.com/michaelliao/githubpy
-* https://github.com/turnkeylinux/octohub
+Here is a simple example where some images are downloaded from the web and displayed in a simple gui. It starts out as a simple script and turns into an installable application that is much more modular and makes it easier to extend and modify (and easier to understand).

@@ -1,7 +1,8 @@
 *__pycache__*
 *.py[cod]
-
+*.egg_info/*
 *ipynb_checkpoints/*
+
 _output/*
 notes.md
 meme-cache
