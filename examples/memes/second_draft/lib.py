@@ -43,6 +43,7 @@ class ImageHarvester(object):
                 return
 
             # little sanity check (this is deleting data - be extra careful)
+            assert 'memes', self.dstPath
             assert self.dstPath.endswith(IMAGE.FOLDER), self.dstPath
             shutil.rmtree(self.dstPath)
         os.makedirs(self.dstPath)
