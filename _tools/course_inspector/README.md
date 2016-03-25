@@ -14,8 +14,11 @@ These tools check the the course contents. They make sure that structure, links,
 
 - [ ] Execute Jupyter Notebooks to make sure they work
 
-## Convention over configuration
+## Specs
 
-* All *.md, *.ipynb, *.py files are considered part of the course
-* File and folder starting with a dot or an underscore, are ignored by inspections.
+**Convention over configuration**
+
+* All *.md, *.ipynb and *.py files are considered part of the course -- except files and folders starting with a dot or an underscore.
 * The README.md in the root of the project contains the Table of contents and should reference all lower level README.md files.
+
+... to be continued.
