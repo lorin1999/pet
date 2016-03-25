@@ -38,7 +38,7 @@ If you have no idea about Python yet, I recommend reading the [official Tutorial
 
 ### Finished Modules 
 
-* [introspection](introspection/README.md)
+* [introspection](introspection)
 
 ### Modules that are vaguely informative already
 
