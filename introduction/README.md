@@ -35,6 +35,6 @@ What I mean ist this: by creating this course I am also creating a whole new set
 * Use of existing automatic tools
 * Creation of custom automatic tools
 
-I chose the last option. So as part of the course I will create the [tools](#tools) that will create parts of the material and make sure that the materials are in good shape ([automation](#automation)) ... these tools and their development can then be used as part of the course to teach certain concepts ([self referentiality](#introspection-and-self-referentiality)). So this actually fits all three aspects that were just discussed this actually fit a bit like this:
+I chose the last option. So as part of the course I will create the [tools](#tools) ([here](../_tools/README.md_)) that will create parts of the material and make sure that the materials are in good shape ([automation](#automation)) ... these tools and their development can then be used as part of the course to teach certain concepts ([self referentiality](#introspection-and-self-referentiality)). So this actually fits all three aspects that were just discussed this actually fit a bit like this:
 
 [![M.C. Escher, Drawing Hands, 1948](http://c7.staticflickr.com/4/3016/2879644822_34d42d0413_b.jpg)](https://www.flickr.com/photos/jameswy_wang/2879644822/in/photostream/)
