@@ -30,11 +30,13 @@ A programming language does not exist in a vacuum. The tooling that develops aro
 
 By creating this course I am also creating a whole new set of problems for myself that have to do with this very course. How can I make sure that all the links I am using are working? Are all finished documents included properly in the table of contents? Are all my executable examples working properly? Questions over questions that each one can be dealt with in four different ways (that I know of):
         
+[![relevant XKCD](http://imgs.xkcd.com/comics/automation.png)](http://xkcd.com/1319/)
+
 * Ignore the problems and accept defeat
 * Continuous manual checking for problems
 * Use of existing automatic tools
 * Creation of custom automatic tools
 
-I chose the last option (but without completely reinventing the wheel .. hopefully). So as part of the course I will create the [tools](#tools) ([here](../_tools/README.md)) that will create parts of the material and make sure that the materials are in good shape ([automation](#automation)) ... these tools and their development can then be used as part of the course to teach certain concepts ([self referentiality](#introspection-and-self-referentiality)). So this actually fits all three aspects that were just discussed. So I guess Escher would be proud of me :)
+I chose the last option (but without completely reinventing the wheel .. hopefully). So as part of the course I will create the [tools](#tools) ([here](../_tools/README.md)) that will create parts of the material and make sure that the materials are in good shape ([automation](#automation)) ... these tools and their development can then be used as part of the course to teach certain concepts ([self referentiality](#introspection-and-self-referentiality)). So this actually fits all three aspects that were just discussed. So I guess Escher would be proud of me :).
 
 [![M.C. Escher, Drawing Hands, 1948](http://c7.staticflickr.com/4/3016/2879644822_34d42d0413_b.jpg)](https://www.flickr.com/photos/jameswy_wang/2879644822/in/photostream/)
