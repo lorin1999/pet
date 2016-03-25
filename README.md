@@ -38,21 +38,21 @@ If you have no idea about Python yet, I recommend reading the [official Tutorial
 
 ### Finished Modules 
 
-* [introspection](introspection/main.md)
+* [introspection](introspection/README.md)
 
 ### Modules that are vaguely informative already
 
-* [execution model](execution-model/main.md)
-* [typing](typing/main.md)
-* [containers](containers/main.md)
-* [namespaces](introspection/main.md)
+* [execution model](execution-model/README.md)
+* [typing](typing/README.md)
+* [containers](containers/README.md)
+* [namespaces](introspection/README.md)
 
 ### Modules that need more work
 
-* [structure](structure/main.md)
-* [access](access/main.md)
-* [gotchas](gotchas/main.md)
-* [internals](internals/main.md)
+* [structure](structure/README.md)
+* [access](access/README.md)
+* [gotchas](gotchas/README.md)
+* [internals](internals/README.md)
 
 **[More Python resources](resources.md)**
 
