@@ -28,10 +28,10 @@ A programming language does not exist in a vacuum. The tooling that develops aro
 
 > Douglas Adams 
 
-By creating this course I am also creating a whole new set of problems for myself that have to do with this very course. How can I make sure that all the links I am using are working? Are all finished documents included properly in the table of contents? Are all my executable examples working properly? Questions over questions that each one can be dealt with in four different ways (that I know of):
-        
 [![relevant XKCD](http://imgs.xkcd.com/comics/automation.png)](http://xkcd.com/1319/)
 
+By creating this course I am also creating a whole new set of problems for myself that have to do with this very course. How can I make sure that all the links I am using are working? Are all finished documents included properly in the table of contents? Are all my executable examples working properly? Questions over questions that each one can be dealt with in four different ways (that I know of):
+     
 * Ignore the problems and accept defeat
 * Continuous manual checking for problems
 * Use of existing automatic tools
