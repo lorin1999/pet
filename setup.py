@@ -1,4 +1,12 @@
-from setuptools import setup
+import logging
+
+from setuptools import setup, find_packages
+
+logging.basicConfig(level=logging.DEBUG)
+log = logging.getLogger('setup.py')
+
+packages = find_packages()
+log.debug("found packages: %s", packages)
 
 setup(
     name='python-course',
@@ -15,6 +23,6 @@ setup(
         'requests[security]',
         'slugify',
     ],
-    packages=['_tools'],
+    packages=packages,
     entry_points={'console_scripts': ['pc-make = _tools.make:main']},
 )
