@@ -1,6 +1,7 @@
 import os
 from glob import glob
 from random import randint
+import shutil
 
 from kivy.app import App
 from kivy.uix.scatter import Scatter
@@ -30,7 +31,7 @@ class PicturesApp(App):
 
             # little sanity check (this deletes data - be extra careful)
             assert self.dstPath.endswith('images'), self.dstPath
-            os.remove(dstPath)
+            shutil.rmtree(dstPath)
         os.makedirs(self.dstPath)
 
     def build(self):
@@ -63,4 +64,4 @@ class PicturesApp(App):
 
 
 if __name__ == '__main__':
-    PicturesApp('images', '.jpg').run()
+    PicturesApp('images', '.jpg', maxImages=10, refresh=True).run()
