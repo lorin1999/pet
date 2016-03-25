@@ -6,11 +6,11 @@
 
 This course is a reaction to the [edX MIT course](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6) which mainly teaches programming with learning some Python as a side effect - I want to teach Python with learning some programming as a side effect. I hope to give you an idea why I think Python is a great language for many applications and for beginning and advanced programmers alike.
 
-# Introspection, Tools and Automation
+## Introspection, Tools and Automation
 
 This is the angle this course will take, because that's how I learned and still am learning about programming in Python.
 
-### Introspection
+### Introspection and Self referentiality
 
 [![Introspection](https://goo.gl/sq1OkT)](https://en.wikipedia.org/wiki/Droste_effect)
 
@@ -35,6 +35,6 @@ What I mean ist this: by creating this course I am also creating a whole new set
 * Use of existing automatic tools
 * Creation of custom automatic tools
 
-So as part of the course I will create the tools that will create parts of the material and make sure that the materials are in good shape ... a bit like this:
+So as part of the course I will create the [tools](#tools) that will create parts of the material and make sure that the materials are in good shape ([automation](#automation)]) ... these tools and their development can then be used as part of the course to teach certain concepts ([self referentiality](#introspection-and-self-referentiality)). So this actually fits all three aspects that were just discussed this actually fit a bit like this:
 
 [![M.C. Escher, Drawing Hands, 1948](http://c7.staticflickr.com/4/3016/2879644822_34d42d0413_b.jpg)](https://www.flickr.com/photos/jameswy_wang/2879644822/in/photostream/)
