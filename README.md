@@ -49,7 +49,7 @@ If you have no idea about Python yet, I recommend reading the [official Tutorial
 * [containers](contents/containers)
 * [namespaces](contents/introspection)
 
-### Need musch more work
+### Needs much more work
 
 * [structure](contents/structure)
 * [access](contents/access)

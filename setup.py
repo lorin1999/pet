@@ -16,12 +16,10 @@ setup(
     author='Oliver Bestwalter',
     license='MIT',
     install_requires=[
-        'flask',
         'ipython',
         'jupyter',
         'plumbum',
         'requests[security]',
-        'slugify',
     ],
     packages=packages,
     entry_points={'console_scripts': ['pc-make = _tools.make:main']},
