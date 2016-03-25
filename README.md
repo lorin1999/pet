@@ -34,28 +34,29 @@ With this collection of materials I try to organize what I learned about Python 
 
 If you have no idea about Python yet, I recommend reading the [official Tutorial](https://docs.python.org/2/tutorial/). If you rather watch a video, [Jessica McKellar made made a good Introduction](https://www.youtube.com/watch?v=rkx5_MRAV3A)
 
-## Course modules
+## Sections (not really ordered yet)
 
-### Finished Modules 
+### Finished
 
-* [introduction](introduction)
-* [introspection](introspection)
+* [introduction](contents/introduction)
+* [introspection](contents/introspection)
 
-### Modules that are vaguely informative already
+### Vaguely informative already
 
-* [execution model](execution-model/README.md)
-* [typing](typing/README.md)
-* [containers](containers/README.md)
-* [namespaces](introspection/README.md)
+* [code evolution](contents/code-evolution)
+* [execution model](contents/execution-model)
+* [typing](contents/typing)
+* [containers](contents/containers)
+* [namespaces](contents/introspection)
 
-### Modules that need more work
+### Need musch more work
 
-* [structure](structure/README.md)
-* [access](access/README.md)
-* [gotchas](gotchas/README.md)
-* [internals](internals/README.md)
+* [structure](contents/structure)
+* [access](contents/access)
+* [gotchas](contents/gotchas)
+* [internals](contents/internals)
 
-**[More Python resources](resources.md)**
+**[More Python resources](contents/information)**
 
 # Licenses
 
