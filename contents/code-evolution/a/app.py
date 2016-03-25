@@ -30,7 +30,7 @@ class PicturesApp(App):
                 return
 
             # little sanity check (this deletes data - be extra careful)
-            assert self.dstPath.endswith('images'), self.dstPath
+            assert self.dstPath.endswith('meme-cache'), self.dstPath
             shutil.rmtree(dstPath)
         os.makedirs(self.dstPath)
 
@@ -64,4 +64,4 @@ class PicturesApp(App):
 
 
 if __name__ == '__main__':
-    PicturesApp('images', '.jpg', maxImages=10, refresh=True).run()
+    PicturesApp('meme-cache', '.jpg', maxImages=10, refresh=True).run()
