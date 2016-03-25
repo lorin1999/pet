@@ -12,6 +12,8 @@ This is the angle this course will take, because that's how I learned and still 
 
 ### Introspection
 
+[![Introspection](https://goo.gl/sq1OkT)](https://en.wikipedia.org/wiki/Droste_effect)
+
 Python is a very introspective language. It contains a lot of functionality that invites you to explore it. For me this is a great way to learn and especially to learn about ones wrong assumptions about how things work by actually investigating what is really happening. This prevents [magical thinking](https://en.wikipedia.org/wiki/Cargo_cult_programming) without taking the [magic](http://www.outpost9.com/reference/jargon/jargon_46.html) out :).
 
 ### Tools
