@@ -18,7 +18,7 @@ Python is a very introspective language. It contains a lot of functionality that
 
 ### Tools
 
-[![what a tool](https://c2.staticflickr.com/6/5183/5755042801_850b1ffb2c_b.jpg)](https://www.flickr.com/photos/ojimbo/5755042801)
+[![Wenger Giant](https://c2.staticflickr.com/6/5183/5755042801_850b1ffb2c_b.jpg)](https://www.flickr.com/photos/ojimbo/5755042801)
 
 A programming language does not exist in a vacuum. The tooling that develops around it plays a just as important role. Python has an astonishing set of great and mostly free tools. An overview over the tools used in this course can be found [here](README.md#tools-for-exploration).
 
