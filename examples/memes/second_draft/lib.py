@@ -82,7 +82,7 @@ class ImageHarvester(object):
         print "saved", path
 
 
-def populate_image_folder(dstPath, ext, maxImages=sys.maxint, refresh=True):
+def populate_image_folder(dstPath, ext, maxImages=sys.maxint, refresh=False):
     ImageHarvester(dstPath, ext, maxImages, refresh).harvest()
 
 
