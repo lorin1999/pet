@@ -38,6 +38,7 @@ If you have no idea about Python yet, I recommend reading the [official Tutorial
 
 ### Finished Modules 
 
+* [introduction](introduction)
 * [introspection](introspection)
 
 ### Modules that are vaguely informative already
