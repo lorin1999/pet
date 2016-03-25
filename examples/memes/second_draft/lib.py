@@ -13,7 +13,7 @@ import sys
 import requests
 from slugify import slugify
 
-from conf import IMAGE
+from conf import IMG
 
 
 class ImageHarvester(object):
@@ -44,7 +44,7 @@ class ImageHarvester(object):
 
             # little sanity check (this is deleting data - be extra careful)
             assert 'memes', self.dstPath
-            assert self.dstPath.endswith(IMAGE.FOLDER), self.dstPath
+            assert self.dstPath.endswith(IMG.FOLDER), self.dstPath
             shutil.rmtree(self.dstPath)
         os.makedirs(self.dstPath)
 
