@@ -28,11 +28,11 @@ class ImageHarvester(object):
 
     def harvest(self):
         """Do the whole dance of preparing, fetching and saving images"""
-        self.initialize_images_dst(self.refresh)
+        self.initialize_dst_path(self.refresh)
         memes = self.fetch_json()['data']['memes']
         self.download_images(memes)
 
-    def initialize_images_dst(self, wipe=False):
+    def initialize_dst_path(self, wipe=False):
         """Make sure the images folder is in the desired state.
         If the folder does not exist, it will be created.
 
