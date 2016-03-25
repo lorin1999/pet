@@ -1,4 +1,14 @@
-# APIs are everywhere
+# APIs vs web scraping
+
+First see, if a web page has an API to fetch what you want. Only if that's not the case you have to scrape.
+
+* requests
+* BS4
+* Scrapy
+
+* RSS/ATOM: http://www.pythonforbeginners.com/feedparser/using-feedparser-in-python
+
+* https://blog.scrapinghub.com/
 
 # Agnostic libs for accessing Web APIs
 
