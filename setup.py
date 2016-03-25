@@ -8,10 +8,12 @@ setup(
     author='Oliver Bestwalter',
     license='MIT',
     install_requires=[
+        'flask',
         'ipython',
         'jupyter',
-        'requests',
         'plumbum',
+        'requests[security]',
+        'slugify',
     ],
     packages=['_tools'],
     entry_points={'console_scripts': ['pc-make = _tools.make:main']},
