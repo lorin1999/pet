@@ -47,7 +47,7 @@ If you have no idea about Python yet, I recommend reading the [official Tutorial
 * [execution model](contents/execution-model)
 * [typing](contents/typing)
 * [containers](contents/containers)
-* [namespaces](contents/introspection)
+* [namespaces](contents/namespaces)
 
 ### Needs much more work
 
