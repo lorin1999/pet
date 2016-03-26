@@ -1,6 +1,5 @@
 """
 Create a Window containing a collection of manipulable images from a folder.
-
 See https://kivy.org/docs/examples/gen__demo__pictures__main__py.html
 
 Something else you could try:
@@ -17,6 +16,9 @@ from kivy.uix.scatter import Scatter
 # noinspection PyUnresolvedReferences
 from kivy.properties import StringProperty
 
+from memes import lib
+from memes.conf import PATH, IMG
+
 
 class Picture(Scatter):
     source = StringProperty(None)
@@ -32,10 +34,16 @@ class PicturesApp(App):
             picture = Picture(source=path, rotation=randint(-30, 30))
             self.root.add_widget(picture)
 
-    # fixme not necessary
-    def on_pause(self):
-        return True
 
+def main():
+    # there was a bug here that didn't show until refactoring
+    # The folder instead of the path is passed here.
+    # In the scripts before it didn't matter, as they only worked, when
+    # the current work directory was where the app was
+    # now we have a command line tool and we need an absolute path here
+    # lib.populate_image_folder(IMG.FOLDER, IMG.EXT, maxImages=25)
+    lib.populate_image_folder(PATH.CACHE, IMG.EXT, maxImages=25)
+    PicturesApp(lib.fetch_image_paths(PATH.CACHE, IMG.EXT)).run()
 
-def show(imagePaths):
-    PicturesApp(imagePaths).run()
+if __name__ == '__main__':
+    main()

@@ -8,4 +8,5 @@ class IMG(object):
 
 class PATH(object):
     ROOT = os.path.dirname(__file__)
+    CONTENT = os.path.join(ROOT, '..', '..', '..', '..', 'contents')
     CACHE = os.path.join(ROOT, IMG.FOLDER)

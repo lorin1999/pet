@@ -10,5 +10,8 @@ setup(
         'slugify',
     ],
     packages=['memes'],
-    entry_points={'console_scripts': ['memes = memes.app:main']},
+    entry_points={'console_scripts': [
+        'kivy = memes.kivy_viewer:main',
+        'flask = memes.flask_viewer:main'
+    ]},
 )
