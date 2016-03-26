@@ -31,7 +31,7 @@ OUT:
     
 This works exactly the same for classes that you define and equip with a `__contains__` method
 
-[demo](inspect-containers.iypnb)
+[demo](inspect-containers.ipynb)
 
 # Containers as part of the Python language mechanics
 
