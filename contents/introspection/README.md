@@ -10,7 +10,7 @@
 
 [PythonTutor](http://www.pythontutor.com/visualize.html) is a great tool to see exactly what happens in memory when Python code is executed. You can step through each line and see the state of the execution frames and the object. This will give you a good foundation on which you can reason about the code you are developing, because you really know what is going on, instead of just guessing.
 
-Try this [little introduction](http://goo.gl/ZbmjZW)
+Try this [little introduction](http://goo.gl/CqhmVy)
 
 ### Ipython: Python interpreter on Steroids
 
