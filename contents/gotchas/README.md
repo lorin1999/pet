@@ -7,6 +7,21 @@ a = [1, 2, 3, 4, 5],
 print type(a)
 ```
 
+# Accidentally concatenating strings in a container
+
+This can happen everywhere, where you pass in lists of string (or want to) but
+actually you pass in one string, this can be quite tricky to find:
+
+```python
+l = [
+    'some', 
+    'list' 
+    'of',
+    'words'
+]
+```
+
+'list' and 'of' are concatenated to one string 'listof' which is not what you wanted and will lead to surprises down the line.
 
 # Mutable objects as default arguments 
 
