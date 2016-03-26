@@ -8,7 +8,9 @@
 
 ### PythonTutor: Visualize code execution
 
-[PythonTutor](http://www.pythontutor.com/visualize.html) is a great tool to understand what exactly going on, when executing simple Python code. It started as a research tool and is growing even new languages now.
+[PythonTutor](http://www.pythontutor.com/visualize.html) is a great tool to see exactly what happens in memory when Python code is executed. You can step through each line and see the state of the execution frames and the object. This will give you a good foundation on which you can reason about the code you are developing, because you really know what is going on, instead of just guessing.
+
+Try this [little introduction](http://goo.gl/ZbmjZW)
 
 ### Ipython: Python interpreter on Steroids
 
