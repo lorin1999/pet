@@ -20,10 +20,10 @@ setup(
     license='MIT',
     install_requires=[
         'howdoi',  # get answers from stackoverflow
-        'jupyter',  # interactive notebooks in the browser
         'plumbum',  # paths, file handling, cli and other nice things
         'requests[security]',  # access the web
 
+        'jupyter[all]',  # interactive notebooks in the browser
         'nbpresent',  # presentation with jupyter
         'funcsigs',  # undocumented nbpresent dependency
     ],
