@@ -6,7 +6,13 @@ Containers and the intuitive way of working with them are one of the features of
 
 ## What can I put in?
 
-That depends on the container. Lists are the most welcoming containers, you can put in anything. Other containers (e.g. sets and tuples and dicts for their keys) need something hashable (we see that later in demo).
+That depends on the container. Lists are the most welcoming kind of containers, you can put in anything. In dictionaries the keys need to be [immutable](https://en.wikipedia.org/wiki/Immutable_object) strings and ints are immutable for example. All elements of seets need to be immutable as well.
+
+## What kinds of containers are there?
+
+There are lots! Especially if you take the stdlib into account but the most important are the inbuilt containers [list](https://docs.python.org/2/library/functions.html#list), [dict](https://docs.python.org/2/library/stdtypes.html#dict), [tuple](https://docs.python.org/2/library/functions.html#tuple) and [set](https://docs.python.org/2/library/stdtypes.html#set) read up on them and start using them everywhere and you're good in most situations.
+
+ordered and unordered
 
 ## Native Containers are iterable
 

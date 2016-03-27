@@ -2,6 +2,12 @@
 
 When editing away it is always possible that a rogue comma keeps sticking at the end of the line where it shouldn't be. Often it is a syntax error, but after an assignment it does not cause an error, but silently creates a tuple, when you actually wanted to create a list, like in the next example. Depending in the context and the quality of your logging and error handling this can be a tricky one to debug.
 
+There is a good historical reason tor that though:
+
+> One consequence of adding an array-like interface to tuples is that I had to figure out some way to resolve the edge cases of tuples with length 0 or 1. One of the rules I took from ABC was that every data type, when printed or converted to a string, should be represented by an expression that was a valid input to the language’s parser. So, it followed that I needed to have notations for 0- and 1-length tuples. At the same time I didn’t want to lose the distinction between a one-tuple and a bare parenthesized expression, so I settled for an ugly but pragmatic approach where a trailing comma would turn an expression into a one-tuple and "()" would represent a zero-tuple. It's worth nothing that parentheses aren’t normally required by Python’s tuple syntax, except here--I felt representing the empty tuple by “nothing” could too easily mask genuine typos.
+
+> -- [Guido van Rossum - Early Language Design and Development](http://python-history.blogspot.de/2009/02/early-language-design-and-development.html)
+
 ```python
 a = [1, 2, 3, 4, 5],
 print type(a)
