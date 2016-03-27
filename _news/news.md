@@ -25,7 +25,7 @@ We made sure that everybody has ...
 
 ### Quick overview about some central tools
 
-See [Tools for exploration](../introspection/main.md#tools-for-exploration)
+See [Tools for exploration](../contents/introspection/README.md#tools-for-exploration)
 
 ### Code block separation by indentation (significant whitespace)
 
@@ -56,8 +56,8 @@ In this [Python Online Tutor example](http://goo.gl/Yqt7hL) you can see how ever
 
 ### Easter eggs
 
-Python has [insider jokes](../internals/easter-eggs.ipynb)!
+Python has [insider jokes](../contents/internals/easter-eggs.ipynb)!
 
 ## Where we go ...
 
-It was suggested that we build a simple program directly in PyCharm that demonstrates the basic concepts we talked about. How about a simple object [introspection function](https://github.com/obestwalter/python-course/blob/master/introspection/introspection-function.ipynb)? I know I go on about this introspection and object stuff, but I really believe, that if you understand these concepts you are a long way in learning Python in a way that you actually understand what you're doing, when you write your first simple programs.
+It was suggested that we build a simple program directly in PyCharm that demonstrates the basic concepts we talked about. How about a simple object [introspection function](../contents/introspection/introspection-function.ipynb)? I know I go on about this introspection and object stuff, but I really believe, that if you understand these concepts you are a long way in learning Python in a way that you actually understand what you're doing, when you write your first simple programs.
