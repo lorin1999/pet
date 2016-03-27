@@ -11,8 +11,10 @@
 
 ### Written Guides
 
-* Python Module of the week (stdlib): [(Py2.7)](https://pymotw.com/2/) [(Py3)](https://pymotw.com/3/)
 * [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
+* [Automate the boring stuff](https://automatetheboringstuff.com/) (Py3)
+* [Learn Python the hard way](http://learnpythonthehardway.org/) (Py2)
+* Python Module of the week (stdlib): [(Py2.7)](https://pymotw.com/2/) [(Py3)](https://pymotw.com/3/)
 
 ### Videos
 
