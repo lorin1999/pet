@@ -19,11 +19,12 @@ setup(
     author='Oliver Bestwalter',
     license='MIT',
     install_requires=[
-        'requests[security]',
-        'plumbum',
+        'howdoi',  # get answers from stackoverflow
+        'jupyter',  # interactive notebooks in the browser
+        'plumbum',  # paths, file handling, cli and other nice things
+        'requests[security]',  # access the web
 
-        'jupyter',
-        'nbpresent',
+        'nbpresent',  # presentation with jupyter
         'funcsigs',  # undocumented nbpresent dependency
     ],
     packages=packages,
