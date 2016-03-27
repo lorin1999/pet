@@ -4,7 +4,17 @@
 
 > -- Not everyone yet
 
-This course is a reaction to the [edX MIT course](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6) which mainly teaches programming with learning some Python as a side effect - I want to teach Python with learning some programming as a side effect. I hope to give you an idea why I think Python is a great language for many applications and for beginning and advanced programmers alike.
+## My credentials
+
+### I am an old 
+
+I own and ~~play~~work with computers since 1986. My first computer was a Commodore 64.
+
+[![Commodore 64](c64.jpg)](https://en.wikipedia.org/wiki/Commodore_64)
+
+### I program in Python because I want to
+
+I didn't learn Python because somebody told me to, but because I wanted to. So I must be good.
 
 ## Introspection, Tools and Automation
 
@@ -37,6 +47,6 @@ By creating this course I am also creating a whole new set of problems for mysel
 * Use of existing automatic tools
 * Creation of custom automatic tools
 
-I chose the last option (but without completely reinventing the wheel .. hopefully). So as part of the course I will create the [tools](#tools) ([here](../_tools/README.md)) that will create parts of the material and make sure that the materials are in good shape ([automation](#automation)) ... these tools and their development can then be used as part of the course to teach certain concepts ([self referentiality](#introspection-and-self-referentiality)). So this actually fits all three aspects that were just discussed. So I guess Escher would be proud of me :).
+I chose the last option (but without completely reinventing the wheel ... hopefully). So as part of the course I will create the [tools](README.md#tools) ([here](../../_tools/README.md)) that will manipulate the material and make sure that it is in good shape ([automation](README.md#automation)) ... these tools and their development can then be used as part of the course to teach certain concepts ([self referentiality](README.md#introspection-and-self-referentiality)). So this actually fits all three aspects that were just discussed. So I guess Escher would be proud of me :).
 
 [![M.C. Escher, Drawing Hands, 1948](http://c7.staticflickr.com/4/3016/2879644822_34d42d0413_b.jpg)](https://www.flickr.com/photos/jameswy_wang/2879644822/in/photostream/)
