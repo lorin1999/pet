@@ -24,7 +24,7 @@ When you want to learn programming, you have to start somewhere and that usually
 
 Although you are learning a formal language it is still a real language. It has a vocabulary, grammar, semantics and whatever else fancy terminology the linguists came up with describing this stuff.  And just like a natural language a programming language is embedded in a culture and it is evolving (hence Python2 and Python3). It has a landscape. It has places where the participants in that culture hang out together. It has its own sets of beliefs, philosophies and even taboos. In the case of Python it even has its own zen (try `import this` in a Python interpreter). If you like Spain, it's landscape and it's culture, you might want to learn spanish. Just like with natural languages, the reason why some people want to learn Python and some want to learn Ruby can also have to do with the whole culture around it.
 
-If you know all that, you might not wonder, if I tell you that it takes years, to become really fluent in a programming language, because it is so much more than just learning the syntax, grammar and semantics.
+If you know all that, you might not wonder if I tell you that it takes years to become really fluent in a programming language, because it is so much more than just learning the syntax, grammar and semantics.
 
 
 ## Expect a lot of Python
