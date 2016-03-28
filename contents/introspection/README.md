@@ -32,7 +32,7 @@ Use Jupyter without installing it:
 
 ### Exploration and Introspection with a good IDE
 
-[PyCharm](https://www.jetbrains.com/pycharm/) is my IDE of choice so everything in this course referring to using an IDE will be about that, although I am sure that [other IDEs](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments) offer similar features.
+[PyCharm](https://www.jetbrains.com/pycharm/) is my IDE of choice so everything in this toolkit referring to using an IDE will be about that, although I am sure that [other IDEs](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments) offer similar features.
 
 An IDE that indexes and analyzes the Code in your project and all installed libraries is a very powerful tool to explore the language itself and learn a lot by reading source code and documentation directly where you are working with it. Powerful [debugging support](https://www.youtube.com/watch?v=JcOCNgXXhmE&list=PLQ176FUIyIUY5Ii58pzoZhS_3qIBL80nz) also goes a long way in helping you ti understand you own or other peoples code and catch your wrong assumptions about what is supposedly going on. The capabilities for code exploration and introspection in PyCharm are built on top of the languages capabilities for introspection offering a convenient interface to them.
 
