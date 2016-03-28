@@ -6,11 +6,15 @@
 
 It's not a course. It's exactly, what it says on the tin. It's a toolkit for exploring Python. in the context of this ~~course~~toolkit I hereby define the word "tool" as anything that might help you to further your knowledge in Python (ha! I can do anything now). If you use these tools regularly for a while you might learn programming in Python as a side effect.
 
-If you are completely new to programming, you might need some more of the tools and if you already know a different programming language you have some of your own tools already and only need to pick the more Python-specific tools provided here. You will also get insights into the culture surrounding the Python language and where you can find more help and resources.
-
-Our chief weapon is tools and introspection ... Our **two** weapons are tools and introspection ... and automation  ... Our **three** weapons are tools, introspection and automation ... and exercises. It's not as funny now ... [I guess you had to be there](https://www.youtube.com/watch?v=Nf_Y4MbUCLY).
+if you already know a different programming language you have some of your own tools already and only need to pick the more Python-specific tools provided here. If you are completely new to programming, you might need all of the tools. Wherever you start, if you work your way through you will also get insights into the culture surrounding the Python language and where you can find more help and resources.
 
 ## Tools we will use
+
+> Our chief weapon is tools and introspection ... Our **two** weapons are tools and introspection ... and automation  ... Our **three** weapons are tools, introspection and automation ... and exercises. 
+
+> me
+
+It's not as funny now ... [I guess you had to be there](https://www.youtube.com/watch?v=Nf_Y4MbUCLY).
 
 ### Introspection
 
