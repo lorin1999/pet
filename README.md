@@ -26,7 +26,6 @@ Although you are learning a [formal language](https://en.wikipedia.org/wiki/Form
 
 If you know all that, you might not wonder if I tell you that it takes years to become really fluent in a programming language, because it is so much more than just learning the syntax, grammar and semantics.
 
-
 ## Expect a lot of Python
 
 > \[...\] become more demanding of Python. Pretend that Python is a magic wand that will miraculously do whatever you want without you needing to lifting a finger. Ask, "how does Python already solve my problem?" and "What Python language feature most resembles my problem?" You will be absolutely astonished at how often it happens that thing you need is already there in some form.
