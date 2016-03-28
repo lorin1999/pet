@@ -1,23 +1,25 @@
 # Python resources
 
-## Official Documentation (very good!)
+**Start here ==>** [Python Tutorial](https://docs.python.org/2/tutorial/) ([(Py3)](https://docs.python.org/3/tutorial/))
 
-* [Docs portal](https://www.python.org/doc/)
+## Official Documentation
+
 * [Python2.7 documentation](https://docs.python.org/2/)
+* [Docs portal](https://www.python.org/doc/)
 
 ## Learning Python
 
 ### Written Guides
 
-* Python Tutorial: [(Py2.7)](https://docs.python.org/2/tutorial/) [(Py3)](https://docs.python.org/3/tutorial/)
-* [Dive into Python 3](http://www.diveintopython3.net/) (Py3)
-* [Dive into Python](http://www.diveintopython.net/) (Py2)
 * [Python 3 Basics Tutorial](https://krother.gitbooks.io/python-3-basics-tutorial/content/) (Py3)
-* [How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython/thinkCSpy/html/)
 * [Automate the boring stuff](https://automatetheboringstuff.com/) (Py3)
 * [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
-* [Learn Python the hard way](http://learnpythonthehardway.org/) (Py2)
-* Python Module of the week (stdlib): [(Py2.7)](https://pymotw.com/2/) [(Py3)](https://pymotw.com/3/)
+* [(stdlib) Python Module of the week](https://pymotw.com/2/) ([(Py3)](https://pymotw.com/3/))
+
+**advanced**
+* [How to make mistakes in Python](http://www.oreilly.com/programming/free/how-to-make-mistakes-in-python.csp)
+* [How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython/thinkCSpy/html/)
+* [Dive into Python](http://www.diveintopython.net/) ([Py3](http://www.diveintopython3.net/))
 
 ### Videos
 
@@ -63,9 +65,13 @@ The talks from the Python creator and [BDFL](https://de.wikipedia.org/wiki/Benev
 * [Nick Coghlan's Python Notes](http://python-notes.curiousefficiency.org/en/latest/index.html)
 * [Python Language on c2wiki](http://c2.com/cgi/wiki?PythonLanguage)
 
-
 # Good reads - but not Python specific
 
+# General topics
+
+# Programming related
+
 * [Peter Norvig: Learn programming in 10 years](http://norvig.com/21-days.html)
-* [In the Beginning was
-the Command Line](http://www.cryptonomicon.com/beginning.html)
+* [In the Beginning was the Command Line](http://www.cryptonomicon.com/beginning.html)
+
+* [(**german**)Weniger schlecht programmieren](http://www.oreilly.de/catalog/wenschleprogger/)
