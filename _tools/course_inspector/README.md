@@ -2,7 +2,7 @@
 
 In the good self referential tradition of this toolkit this README can serve as an example for [README Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 
-These tools check the the course contents. They make sure that structure, links, images, executable examples are in good shape.
+These tools check the contents. They make sure that structure, links, images, executable examples are in good shape.
 
 ## Inspections
 
