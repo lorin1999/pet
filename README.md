@@ -1,8 +1,14 @@
-# Python Exploration Toolkit ![logo](logo.png) 
+# PET - Python Exploration Toolkit ![logo](logo.png) 
 
-Materials for [CodeCats](http://codecats.io/) sessions at [Zeppelin University](https://www.zu.de/). 
+> An expert is someone who has made all the mistakes which can be made, in a narrow field. 
+
+> -- Niels Bohr
+
+This collection of articles, references, scripts, notebooks, tools and exercises will hopefully help you to make more mistakes faster with Python -- and maybe even learn from them.
 
 ## Updates
+
+**For ongoing [CodeCats](http://codecats.io/) sessions at [Zeppelin University](https://www.zu.de/).**
 
 **Check out the [NEWS](_news/news.md) to see, what we did and where we are going**
 
