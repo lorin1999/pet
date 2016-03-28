@@ -17,6 +17,8 @@ pip install -r requirements.txt
 
 # "Proper" Applications and Libraries
 
+* Source of truth: [PYPA - Python Packaging Authority](https://www.pypa.io)
+
 App vs lib: https://caremad.io/2013/07/setup-vs-requirement/
 
 http://python-packaging.readthedocs.org/en/latest/index.html
