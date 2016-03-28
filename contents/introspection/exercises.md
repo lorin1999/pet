@@ -2,7 +2,7 @@
 
 Try to see these exercises as micro programming projects. You are presented with a problem and you are supposed to solve it by writing Python code. If you look at it this way, writing "real" programs is basically just sticking a lot of completed micro projects together in the right way. The art in writing complex programs is to discombobulate that scary huge problem into a collection of many solvable micro problems/projects. It really is that simple. Just like playing Beethovens' 9th on the piano can be broken down into learning to play many little phrases and chords until you're comfortable and then sticking them all together in the right order. It might take a while to practice them, but once you did that, putting it all together is not too hard anymore.
 
-## How should you to go about doing the exercises
+## How should you go about doing the exercises
 
 This is not about just trying to find out how to this as fast as possible. This is also about getting comfortable with the tools and developing an approach to solving programming problems in general.
 
