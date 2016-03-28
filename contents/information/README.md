@@ -2,8 +2,6 @@
 
 ## Official Documentation (very good!)
 
-* Python Tutorial: [(Py2.7)](https://docs.python.org/2/tutorial/) [(Py3)](https://docs.python.org/3/tutorial/)
-
 * [Docs portal](https://www.python.org/doc/)
 * [Python2.7 documentation](https://docs.python.org/2/)
 
@@ -11,8 +9,13 @@
 
 ### Written Guides
 
-* [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
+* Python Tutorial: [(Py2.7)](https://docs.python.org/2/tutorial/) [(Py3)](https://docs.python.org/3/tutorial/)
+* [Dive into Python 3](http://www.diveintopython3.net/) (Py3)
+* [Dive into Python](http://www.diveintopython.net/) (Py2)
+* [Python 3 Basics Tutorial](https://krother.gitbooks.io/python-3-basics-tutorial/content/) (Py3)
+* [How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython/thinkCSpy/html/)
 * [Automate the boring stuff](https://automatetheboringstuff.com/) (Py3)
+* [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
 * [Learn Python the hard way](http://learnpythonthehardway.org/) (Py2)
 * Python Module of the week (stdlib): [(Py2.7)](https://pymotw.com/2/) [(Py3)](https://pymotw.com/3/)
 
