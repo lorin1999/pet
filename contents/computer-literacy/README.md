@@ -6,7 +6,7 @@ This is a skill that is completely independent of what programming language you 
 
 ## Know that your computer is really very dumb indeed
 
-The main thing to be very aware of - however obvious this might seem - is to be always aware that your computer is dumb. It does not interpret what you tell it. It does everything exactly like you tell it. There is no wiggle room. You might be vaguely aware of that just by using a computer in the "normal" way, but when you are starting to write programs, you will become **very** aware of it. Just to get an idea, how aware you should become of it: read the chapter about [lexical analysis](https://docs.python.org/3.5/reference/lexical_analysis.html) in the Python docs. Yes, I know it's dry, but please read it. It will raise your awareness.
+The main thing to be very aware of - however obvious this might seem - is that your computer is dumb. It does not interpret what you tell it. It does everything exactly like you tell it. There is no wiggle room. You might be vaguely aware of that just by using a computer in the "normal" way, but when you are starting to write programs, you will become **very** aware of it. Just to get an idea, how aware you should become of it: read the chapter about [lexical analysis](https://docs.python.org/3.5/reference/lexical_analysis.html) in the Python docs. Yes, I know it's dry, but please read it. It will raise your awareness.
 
 ### Quick aside: invisible things matter
 
