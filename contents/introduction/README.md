@@ -40,7 +40,7 @@ BTW: there is even [SO code completion for JavaScript](https://emilschutte.com/s
 
 [![Wenger Giant](https://c2.staticflickr.com/6/5183/5755042801_850b1ffb2c_b.jpg)](https://www.flickr.com/photos/ojimbo/5755042801)
 
-A programming language does not exist in a vacuum. The software tooling that develops around it plays a just as important role. Python has an astonishing set of great and mostly free software tools. The central tools that you will need to work with this toolkit are described in [tools for exploration](../introspection/README.md#tools-for-exploration).k
+A programming language does not exist in a vacuum. The software tooling that develops around it plays a just as important role. Python has an astonishing set of great and mostly free software tools. The central tools that you will need to work with this toolkit are described in [tools for exploration](../introspection/README.md#tools-for-exploration).
 
 ### Self referential Automation
 
