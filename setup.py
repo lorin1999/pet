@@ -3,13 +3,16 @@ pip install https://github.com/ipython-contrib/
 IPython-notebook-extensions/archive/master.zip --user
 """
 import logging
+
 from setuptools import find_packages, setup
 
+# setup.py is a normal Python script
+# If you have trouble, you can log variables to understand what's going on
 logging.basicConfig(level=logging.DEBUG)
 log = logging.getLogger('setup.py')
 
 packages = find_packages()
-log.debug("found packages: %s", packages)
+log.debug("find_packages() -> %s", packages)
 
 setup(
     name='python-course',
