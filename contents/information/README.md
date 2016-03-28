@@ -62,3 +62,8 @@ The talks from the Python creator and [BDFL](https://de.wikipedia.org/wiki/Benev
 
 * [Nick Coghlan's Python Notes](http://python-notes.curiousefficiency.org/en/latest/index.html)
 * [Python Language on c2wiki](http://c2.com/cgi/wiki?PythonLanguage)
+
+
+# Non Python specific
+
+* [Peter Norvig: Learn programming in 10 years](http://norvig.com/21-days.html)
