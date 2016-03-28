@@ -32,7 +32,9 @@ This is not about just trying to find out how to this as fast as possible. This 
 
 Try solving the given exercises one after the other by **only** using the [internal documentation and introspection functions](../introspection/README.md#classic-introspection-in-python). Also: try solving the exercises alternating between the different [software tools](../introspection/README.md#tools-for-exploration). This way you can start to get a feeling for the differences in the tools and the different working styles they support. Try to find out which way of working and exploring feels best for you. This is really a matter of taste and how you tick. People who love the commandline do a lot of their code preparation in Ipython. A lot of scientists love to work in Jupiter notebooks. I do almost everything in PyCharm.
 
-If you are getting frustrated please do not jump right into Google. First try the howdoi command line tool (`pip install howdoi`) and see if you can get unstuck this way. Howdoi is basically almost like gooogling for programmers. It queries [Stack Overflow](http://stackoverflow.com/) (SO), which turned into the de facto help system for many programmers since it's inception in 2008. There is even a [commandline tool](https://pypi.python.org/pypi/howdoi) (written in Python) that queries SO and feels astonishingly like asking a human (which it basically is). Mor than that there is even [SO code completion for JavaScript](https://emilschutte.com/stackoverflow-autocomplete/) ;)
+If you are getting frustrated please do not jump right into Google. First try the [howdoi](https://pypi.python.org/pypi/howdoi) command line tool (`pip install howdoi`) and see if you can get unstuck this way. Howdoi is basically almost like gooogling for programmers. It queries [Stack Overflow](http://stackoverflow.com/) (SO), which turned into the de facto help system for many programmers since it's inception in 2008. Using that tool feels astonishingly like asking a human directly on your commandline (which it basically is). 
+
+BTW: there is even [SO code completion for JavaScript](https://emilschutte.com/stackoverflow-autocomplete/) ;)
 
 ### Software tools
 
