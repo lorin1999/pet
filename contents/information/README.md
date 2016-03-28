@@ -16,7 +16,11 @@
 * [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
 * [(stdlib) Python Module of the week](https://pymotw.com/2/) ([(Py3)](https://pymotw.com/3/))
 
-**advanced**
+#### Specific technologies
+
+* [Django Girls Tutorial](https://www.gitbook.com/book/djangogirls/djangogirls-tutorial/details)
+
+#### Advanced
 * [How to make mistakes in Python](http://www.oreilly.com/programming/free/how-to-make-mistakes-in-python.csp)
 * [How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython/thinkCSpy/html/)
 * [Dive into Python](http://www.diveintopython.net/) ([Py3](http://www.diveintopython3.net/))
