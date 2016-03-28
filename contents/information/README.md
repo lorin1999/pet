@@ -67,3 +67,4 @@ The talks from the Python creator and [BDFL](https://de.wikipedia.org/wiki/Benev
 # Non Python specific
 
 * [Peter Norvig: Learn programming in 10 years](http://norvig.com/21-days.html)
+* [The 5 Basic Concepts of any Programming Language](https://howtoprogramwithjava.com/programming-101-the-5-basic-concepts-of-any-programming-language/)
