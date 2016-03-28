@@ -2,9 +2,9 @@
 
 ### Basics
 
-* print the path of the Python Interpreter you script or REPL is using.
+* print the path of the Python Interpreter that your script or REPL is using
 
-* print the type of `42` (the int
+* print the type of `42` (the number)
 
 * print all attributes and functions of `42`
 
