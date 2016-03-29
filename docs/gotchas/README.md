@@ -55,7 +55,7 @@ OUT:
                  ^
     SyntaxError: invalid syntax
 
-If you access the object attributes of an int directly, the meaning of the dot as the decimal dot is shadowing the attribute acces meaning if it, so it results in a syntax error.
+If you access the object attributes of an int directly, the meaning of the dot as the decimal dot is shadowing the attribute access meaning if it, so it results in a syntax error.
 
 The Language Parser of Python is very simple and just walks through the code from left to right and terminates the symbols without context.
 
@@ -74,17 +74,19 @@ OUT:
    
     1
     1
+# (better in Py3) Class scope generator gotcha
 
 ```python
 class A(object):
     a = 41
-    # wird beim Erzeugen der Klasse ausgewertet
+    # is evaluated when class object is created
     b = [a + n for n in range(1, 3)]
-    # a ist an globalen Namensraum gebunden
+    # a is bound 
     c = (a + n for n in range(3, 5))
 ```
 
-[DEMO](http://goo.gl/I6owCQ)
+* [DEMO 2.7](http://goo.gl/I6owCQ)
+* [DEMO 3.3](http://goo.gl/YbgnPm)
 
 # (obsolete) Total ordering gotcha
 
