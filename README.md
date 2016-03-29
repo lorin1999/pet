@@ -1,28 +1,12 @@
-# PET - Python Exploration Toolkit ![logo](logo.png) 
-
-> An expert is someone who has made all the mistakes which can be made, in a narrow field. 
-
-> -- Niels Bohr
-
-This collection of articles, references, scripts, notebooks, tools and exercises will hopefully help you to make more mistakes faster with Python -- and maybe even learn from them.
-
-## Updates
-
-**For ongoing [CodeCats](http://codecats.io/) sessions at [Zeppelin University](https://www.zu.de/).**
-
-**Check out the [NEWS](contents/_news/news.md) to see, what we did and where we are going**
-
-### Current assignment alert
-
-Send me your [Pull Requests](https://help.github.com/articles/using-pull-requests/)! just add a link to your Github profile **[in this Markdown file](codecats-on-github.md)** and see it pop up [here](https://github.com/obestwalter/python-course/pulls) and then see your name added to the [contributors](https://github.com/obestwalter/python-course/graphs/contributors).
-
-### Gitter Chat room
-
-Gitter provides chat rooms which are attached to Github repositories ([features](https://en.wikipedia.org/wiki/Gitter#Features)) - I added one to this repository.
-
 [![Gitter](https://badges.gitter.im/obestwalter/python-course.svg)](https://gitter.im/obestwalter/python-course)
 
----
+# PET - Python Exploration Toolkit ![logo](contents/logo.png) 
+
+> I may not have gone where I intended to go, but I think I have ended up where I intended to be.
+
+> -- Douglas Adams
+
+May the same happen to you with this toolkit.
 
 ## New to programming?
 
@@ -43,30 +27,6 @@ Although it takes years to master a programming language and all of its idiosync
 ## No idea what Python is yet?
 
 If you have no idea about Python yet, I recommend reading the [official Tutorial](https://docs.python.org/2/tutorial/). If you rather watch a video, [Jessica McKellar gave a good introduction](https://www.youtube.com/watch?v=rkx5_MRAV3A)
-
-## Sections (not really ordered yet)
-
-### Finished
-
-* [introduction](contents/introduction)
-* [introspection](contents/introspection)
-
-### Vaguely informative already
-
-* [code evolution](contents/code-evolution)
-* [execution model](contents/execution-model)
-* [typing](contents/typing)
-* [containers](contents/containers)
-* [namespaces](contents/namespaces)
-
-### Needs much more work
-
-* [structure](contents/structure)
-* [access](contents/access)
-* [gotchas](contents/gotchas)
-* [internals](contents/internals)
-
-**[More Python resources](contents/information)**
 
 # Licenses
 

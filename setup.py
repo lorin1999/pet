@@ -1,7 +1,3 @@
-"""
-pip install https://github.com/ipython-contrib/
-IPython-notebook-extensions/archive/master.zip --user
-"""
 import logging
 
 from setuptools import find_packages, setup
