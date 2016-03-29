@@ -26,5 +26,7 @@ setup(
         'funcsigs',  # undocumented nbpresent dependency
     ],
     packages=packages,
-    entry_points={'console_scripts': ['pc-make = _tools.make:main']},
+    entry_points={'console_scripts': [
+        'pc-make = _tools.jupyter_slider.make:main'
+    ]},
 )
