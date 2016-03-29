@@ -18,12 +18,22 @@ The Python interpreter has an [interactive mode](https://docs.python.org/2/tutor
 
 [Try Ipython online](https://www.pythonanywhere.com/try-ipython/).
 
-### Jupyter: Interactive Notebooks
+### Jupyter: interactive notebooks
 
-Jupyter notebooks - formerly known as Ipython notebooks - are a way to create documents that consist of code that can be executed directly from the document to fetch it's output. You can also use Markdown to create rich documents. The results can be saved and rendered in many different output formats. Github renders these Notebooks by default.
+Jupyter notebooks (formerly known as Ipython notebooks) are a way to create documents that consist of code that can be executed directly from the document to fetch it's output. You can also use Markdown to create rich documents. The results can be saved and rendered in many different output formats. Github renders these Notebooks by default.
 
 * [Official Documentation](https://jupyter.readthedocs.org/en/latest/#user-docs)
 * [Alternative Manual](http://jupyter.cs.brynmawr.edu/hub/dblank/public/Jupyter%20Notebook%20Users%20Manual.ipynb#Jupyter-Notebook-Users-Manual)
+
+### Jupyter introspection examples
+
+The following examples demonstrate some more introspection activities with the help of Jupyter notebooks: 
+ 
+* [Basic Introspection](introspection-basics.ipynb) 
+* [Accessing system information](introspection-system.ipynb) 
+* [A simple introspection function](introspection-function.ipynb).
+
+**If you clone this repository and install Jupyter you can open these Notebooks and experiment with them.**
 
 Use Jupyter without installing it:
 
@@ -87,13 +97,3 @@ inspect.getcallargs(inspect.getargs)
 * [`id`](https://docs.python.org/2/library/functions.html#id) returns an int that is the unique id for that object in memory.
 
 Here is a good [old-school tutorial](http://www.ibm.com/developerworks/library/l-pyint/) to introspection if you want to explore that a bit more.
-
-### Ipython introspection demos
-
-The following examples demonstrate some more introspection activities with the help of Jupyter notebooks: 
- 
-* [Basic Introspection](introspection-basics.ipynb) 
-* [Accessing system information](introspection-system.ipynb) 
-* [A simple introspection function](introspection-function.ipynb).
-
-If you clone this repository and install Jupyter you can open these Notebooks and experiment with them.
