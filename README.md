@@ -8,7 +8,9 @@
 
 May the same happen to you with this toolkit.
 
-**[Exploration tools](contents/README.md)**
+**[Start exploring here](contents/README.md)**
+
+**[==> CodeCats session updates <==](contents/_session-updates/updates.md)**
 
 ## New to programming?
 
