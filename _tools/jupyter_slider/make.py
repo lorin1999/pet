@@ -1,7 +1,8 @@
 import logging
 
+from _tools.jupiter_slider.slides import generate_slides
+
 from .conf import OUTPUT_PATH
-from .slides import generate_slides
 
 
 def basic_config():

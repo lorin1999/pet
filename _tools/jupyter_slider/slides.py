@@ -4,7 +4,7 @@ from plumbum import local
 # noinspection PyUnresolvedReferences
 from plumbum.cmd import jupyter
 
-from .conf import PROJECT_PATH, OUTPUT_PATH
+from _tools.jupiter_slider.conf import PROJECT_PATH, OUTPUT_PATH
 
 log = logging.getLogger(__name__)
 
