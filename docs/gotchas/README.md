@@ -76,7 +76,10 @@ OUT:
     1
 # (better in Py3) Class scope generator gotcha
 
+This code crashes on class creation in Python3 which is much better then what happens in Python2.7 ...
+
 ```python
+# In Python2.7
 class A(object):
     a = 41
     # is evaluated when class object is created
