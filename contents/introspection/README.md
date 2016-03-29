@@ -33,7 +33,7 @@ The following examples demonstrate some more introspection activities with the h
 * [Accessing system information](introspection-system.ipynb) 
 * [A simple introspection function](introspection-function.ipynb).
 
-**Hint:** if you clone this repository and install Jupyter you can open these Notebooks and experiment with them.
+**Hint:** if you clone this repository and install Jupyter you can open these notebooks and experiment with them.
 
 #### Use Jupyter without installing it
 
