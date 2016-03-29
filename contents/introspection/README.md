@@ -1,4 +1,4 @@
-# Introduction to Introspection
+# Introduction to introspection
 
 > Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes. 
     
@@ -8,11 +8,11 @@
 
 ### PythonTutor: Visualize code execution
 
-[PythonTutor](http://www.pythontutor.com/visualize.html) is a great tool to see exactly what happens in memory when Python code is executed. You can step through each line and see the state of the execution frames and the object. This will give you a good foundation on which you can reason about the code you are developing, because you really know what is going on, instead of just guessing.
+[PythonTutor](http://www.pythontutor.com/visualize.html) is a great online tool to see exactly what happens in memory when Python code is executed. You can step through each line and see the state of the execution frames and the object. This will give you a good foundation on which you can reason about the code you are developing, because you really know what is going on, instead of just guessing.
 
 Try this [little introduction](http://goo.gl/CqhmVy).
 
-### Ipython: Python interpreter on Steroids
+### Ipython: Python interpreter on steroids
 
 The Python interpreter has an [interactive mode](https://docs.python.org/2/tutorial/interpreter.html#interactive-mode) (more generally known as Read Eval Print Loop - [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)). This provides a way of interactively developing and exploring program code. [Ipython](https://ipython.org/) enhances the interactive shell in many ways that provide more assistance to the explorer. Some central improvements are shell-like tab completion, shell commands, file completion, pretty tracebacks, magic commands (try `%quickref`) and easier introspection of live objects [(see main features)](http://ipython.readthedocs.org/en/stable/overview.html#main-features-of-the-interactive-shell). Getting help is much easier as well: instead of `help(sys)` you can type `sys?` to see the documentation and `sys??` to see the source code.
 
