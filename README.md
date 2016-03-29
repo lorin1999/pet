@@ -8,6 +8,8 @@
 
 May the same happen to you with this toolkit.
 
+**[Exploration tools](contents/README.md)**
+
 ## New to programming?
 
 When you want to learn programming, you have to start somewhere and that usually is by learning how to write programs in one specific programming language. Picking one is the first hard thing to do. According to the list of programming languages on Wikipedia there are almost 700 [**notable** programming languages](https://en.wikipedia.org/wiki/List_of_programming_languages). If you want to narrow that down and google for ["best language learn programming"](http://bfy.tw/4yBG) and you find one article in the first 100 hits that does **not** mention Python, please send me the link - that would be a good find. I also believe that Python is a very good first language to learn, so let's just leave it at that and say you made a good choice (unless you want to write an operating system or similar low level code, but you don't want to do that as a beginner unless you are [Linus Torvalds](https://de.wikipedia.org/wiki/Linus_Torvalds)).
