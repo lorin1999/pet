@@ -25,7 +25,7 @@ Jupyter notebooks (formerly known as Ipython notebooks) are a way to create docu
 * [Official Documentation](https://jupyter.readthedocs.org/en/latest/#user-docs)
 * [Alternative Manual](http://jupyter.cs.brynmawr.edu/hub/dblank/public/Jupyter%20Notebook%20Users%20Manual.ipynb#Jupyter-Notebook-Users-Manual)
 
-### Jupyter introspection examples
+#### Introspection examples
 
 The following examples demonstrate some more introspection activities with the help of Jupyter notebooks: 
  
@@ -35,12 +35,12 @@ The following examples demonstrate some more introspection activities with the h
 
 **If you clone this repository and install Jupyter you can open these Notebooks and experiment with them.**
 
-Use Jupyter without installing it:
+#### Use Jupyter without installing it
 
 * [Try Jupyter online](https://try.jupyter.org/)
 * [Wakari Notebook Hosting](https://wakari.io)
 
-### Exploration and Introspection with a good IDE
+### Exploration and introspection with a good IDE
 
 [PyCharm](https://www.jetbrains.com/pycharm/) is my IDE of choice so everything in this toolkit referring to using an IDE will be about that, although I am sure that [other IDEs](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments) offer similar features.
 
