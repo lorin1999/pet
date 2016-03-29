@@ -10,7 +10,7 @@ Gitter provides chat rooms which are attached to Github repositories ([features]
 
 # Plan for next session
 
-**More about introspection with lots of practical exercises**
+**More about introspection with lots of [practical exercises](../introspection/exercises.md)**
 
 # History
 
