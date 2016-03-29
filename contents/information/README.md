@@ -68,14 +68,15 @@ The talks from the Python creator and [BDFL](https://de.wikipedia.org/wiki/Benev
 
 * [Nick Coghlan's Python Notes](http://python-notes.curiousefficiency.org/en/latest/index.html)
 * [Python Language on c2wiki](http://c2.com/cgi/wiki?PythonLanguage)
+* [Philip Guo - Python data tyeps](https://www.youtube.com/watch?v=ngkl95AMl5M)
 
 # Good reads - but not Python specific
 
 # General topics
 
+* [In the Beginning was the Command Line](http://www.cryptonomicon.com/beginning.html)
+
 # Programming related
 
 * [Peter Norvig: Learn programming in 10 years](http://norvig.com/21-days.html)
-* [In the Beginning was the Command Line](http://www.cryptonomicon.com/beginning.html)
-
 * [(**german**)Weniger schlecht programmieren](http://www.oreilly.de/catalog/wenschleprogger/)
