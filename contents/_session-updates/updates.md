@@ -1,4 +1,4 @@
-# News for [CodeCats](http://codecats.io/) ([Zeppelin University](https://www.zu.de/))
+# [CodeCats](http://codecats.io/) updates
 
 ## Current assignment alert
 
