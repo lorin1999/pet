@@ -28,7 +28,7 @@ Try to see the exercises as micro programming projects. You are presented with a
 
 ### How should you go about doing the exercises
 
-This is not about just trying to find out how to this as fast as possible. This is also about getting comfortable with the tools and developing an approach to solving programming problems in general.
+This is not about trying to find out how to do this as fast as possible. This is also about getting comfortable with the tools and developing an approach to solving programming problems in general.
 
 Try solving the given exercises one after the other by **only** using the [internal documentation and introspection functions](../introspection/README.md#classic-introspection-in-python). Also: try solving the exercises alternating between the different [software tools](../introspection/README.md#tools-for-exploration). This way you can start to get a feeling for the differences in the tools and the different working styles they support. Try to find out which way of working and exploring feels best for you. This is really a matter of taste and how you tick. People who love the commandline do a lot of their code preparation in Ipython. A lot of scientists love to work in Jupiter notebooks. I do almost everything in PyCharm.
 
