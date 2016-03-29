@@ -5,4 +5,4 @@
 
 # Already somehow obsolete
 
-* [JupyterSlider™](jupyter_slider/README.md)
+* [JupyterSlider™](slider/README.md)

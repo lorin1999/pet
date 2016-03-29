@@ -7,7 +7,7 @@ from setuptools import find_packages, setup
 logging.basicConfig(level=logging.DEBUG)
 log = logging.getLogger('setup.py')
 
-packages = find_packages()
+packages = find_packages(exclude='contents')
 log.debug("find_packages() -> %s", packages)
 
 setup(
@@ -27,6 +27,6 @@ setup(
     ],
     packages=packages,
     entry_points={'console_scripts': [
-        'pc-make = _tools.jupyter_slider.make:main'
+        'pc-make = pet.slider.make:main'
     ]},
 )

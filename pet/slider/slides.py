@@ -4,8 +4,6 @@ from plumbum import local
 # noinspection PyUnresolvedReferences
 from plumbum.cmd import jupyter
 
-from _tools.jupiter_slider.conf import PROJECT_PATH, OUTPUT_PATH
-
 log = logging.getLogger(__name__)
 
 BAD_FOLDER_NAMES = ['site-packages', '.ipynb_checkpoints']

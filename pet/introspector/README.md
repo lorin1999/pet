@@ -1,4 +1,4 @@
-# Course Inspector
+# Introspector™
 
 In the good self referential tradition of this toolkit this README can serve as an example for [README Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 
@@ -6,7 +6,9 @@ These tools check the contents. They make sure that structure, links, images, ex
 
 ## Inspections
 
-- [ ] Find broken links
+- [ ] Find broken internal links (to other Markdown files)
+
+- [ ] Find broken urls (to external websites)
 
 - [ ] Find orphaned files
 
