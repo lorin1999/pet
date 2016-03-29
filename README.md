@@ -1,6 +1,6 @@
 [![Gitter](https://badges.gitter.im/obestwalter/python-course.svg)](https://gitter.im/obestwalter/python-course)
 
-# PET - Python Exploration Toolkit ![logo](contents/logo.png) 
+# PET - Python Exploration Toolkit ![logo](docs/logo.png) 
 
 > I may not have gone where I intended to go, but I think I have ended up where I intended to be.
 
@@ -8,9 +8,9 @@
 
 May the same happen to you with this toolkit.
 
-**[Start exploring here](contents/README.md)**
+**[Start exploring here](docs/README.md)**
 
-**[==> CodeCats session updates <==](contents/_session-updates/updates.md)**
+**[==> CodeCats session updates <==](docs/_session-updates/updates.md)**
 
 ## New to programming?
 

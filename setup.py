@@ -7,7 +7,7 @@ from setuptools import find_packages, setup
 logging.basicConfig(level=logging.DEBUG)
 log = logging.getLogger('setup.py')
 
-packages = find_packages(exclude='contents')
+packages = find_packages(exclude='docs')
 log.debug("find_packages() -> %s", packages)
 
 setup(

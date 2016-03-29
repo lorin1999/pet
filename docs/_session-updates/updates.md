@@ -53,14 +53,14 @@ Example:
 
 ```python
 def my_super_function():
-    print "I am indented with 4 spaces"
-    print "Me too! I belong to the function"
-print "I am not inside the function block anymore :("
+    print("I am indented with 4 spaces")
+    print("Me too! I belong to the function")
+print("I am not inside the function block anymore :(")
 
 for currentElement in range(5):
-    print currentElement
-    print "I also belong to the loop block"
-print "I don't belong to the loop block anymore"
+    print(currentElement)
+    print("I also belong to the loop block")
+print("I don't belong to the loop block anymore")
 ```
 
 Here are some articles that throw some light on the debate (yes ... there are people seriously arguing about the best way how to mark code blocks in programming languages).
@@ -74,4 +74,4 @@ In this [Python Online Tutor example](http://goo.gl/Yqt7hL) you can see how ever
 
 #### Easter eggs
 
-Python has [insider jokes](..//internals/easter-eggs.ipynb)!
+Python has [insider jokes](../internals/easter-eggs.ipynb)!

@@ -10,7 +10,7 @@ There is a good historical reason tor that though:
 
 ```python
 a = [1, 2, 3, 4, 5],
-print type(a)
+print(type(a))
 ```
 
 # Accidentally concatenating strings in a container
