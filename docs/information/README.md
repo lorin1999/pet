@@ -1,29 +1,29 @@
 # Python resources
 
-**Start here ==>** [Python Tutorial](https://docs.python.org/2/tutorial/) ([(Py3)](https://docs.python.org/3/tutorial/))
+**Start here ==>** [Python 3 Tutorial](https://docs.python.org/3/tutorial/)
 
 ## Official Documentation
 
-* [Python2.7 documentation](https://docs.python.org/2/)
+* [Python 3 documentation](https://docs.python.org/3/)
 * [Docs portal](https://www.python.org/doc/)
 
 ## Learning Python
 
 ### Written Guides
 
-* [Python 3 Basics Tutorial](https://krother.gitbooks.io/python-3-basics-tutorial/content/) (Py3)
-* [Automate the boring stuff](https://automatetheboringstuff.com/) (Py3)
+* [Python 3 Basics Tutorial](https://krother.gitbooks.io/python-3-basics-tutorial/content/)
+* [Automate the boring stuff](https://automatetheboringstuff.com/)
 * [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
-* [(stdlib) Python Module of the week](https://pymotw.com/2/) ([(Py3)](https://pymotw.com/3/))
+* [(stdlib) Python Module of the week](https://pymotw.com/3/)
 
 #### Specific technologies
 
 * [Django Girls Tutorial](https://www.gitbook.com/book/djangogirls/djangogirls-tutorial/details)
 
 #### Advanced
-* [How to make mistakes in Python](http://www.oreilly.com/programming/free/how-to-make-mistakes-in-python.csp)
-* [How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython/thinkCSpy/html/)
-* [Dive into Python](http://www.diveintopython.net/) ([Py3](http://www.diveintopython3.net/))
+* [How to make mistakes in Python (Python 2](http://www.oreilly.com/programming/free/how-to-make-mistakes-in-python.csp)
+* [How to Think Like a Computer Scientist Python 2](http://greenteapress.com/thinkpython/thinkCSpy/html/)
+* [Dive into Python](http://www.diveintopython3.net/)
 
 ### Videos
 

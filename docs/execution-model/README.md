@@ -8,5 +8,5 @@ When running a Python script the execution works exactly as you would expect: Th
 
 ## Resources
 
-* [execution model in Python documentation](https://docs.python.org/2/reference/executionmodel.html)
+* [execution model in Python documentation](https://docs.python.org/3/reference/executionmodel.html)
 * [good article about execution model](https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/)

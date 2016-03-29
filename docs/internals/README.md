@@ -2,9 +2,9 @@
 
 http://stackoverflow.com/questions/21233229/whats-the-purpose-of-the-package-attribute-in-python
 
-https://docs.python.org/2.7/reference/toplevel_components.html#programs
+https://docs.python.org/3/reference/toplevel_components.html#programs
 
-https://docs.python.org/2.7/library/__builtin__.html#module-__builtin__
+https://docs.python.org/3/library/__builtin__.html#module-__builtin__
 
 http://stackoverflow.com/questions/6618795/get-locals-from-calling-namespace-in-python
 

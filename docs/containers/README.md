@@ -10,7 +10,7 @@ That depends on the container. Lists are the most welcoming kind of containers, 
 
 ## What kinds of containers are there?
 
-There are lots! Especially if you take the stdlib into account but the most important are the inbuilt containers [list](https://docs.python.org/2/library/functions.html#list), [dict](https://docs.python.org/2/library/stdtypes.html#dict), [tuple](https://docs.python.org/2/library/functions.html#tuple) and [set](https://docs.python.org/2/library/stdtypes.html#set) read up on them and start using them everywhere and you're good in most situations.
+There are lots! Especially if you take the stdlib into account but the most important are the inbuilt containers [list](https://docs.python.org/3/library/functions.html#list), [dict](https://docs.python.org/3/library/stdtypes.html#dict), [tuple](https://docs.python.org/3/library/functions.html#tuple) and [set](https://docs.python.org/3/library/stdtypes.html#set) read up on them and start using them everywhere and you're good in most situations.
 
 ## All native Containers are also sequences
 
@@ -18,7 +18,7 @@ All native container types can be iterated over by using a `for ... in` loop ([d
 
 ## There are ordered and unordered containers
 
-`list` and `tuple` are ordered, meaning they are iterated over in exactly the order, in which you created them. `set` and `dict` are unordered. If you need an ordered dict, don't go running of creating your own. There is already one in the [collections](https://docs.python.org/2/library/collections.html#collections.OrderedDict) module.
+`list` and `tuple` are ordered, meaning they are iterated over in exactly the order, in which you created them. `set` and `dict` are unordered. If you need an ordered dict, don't go running of creating your own. There is already one in the [collections](https://docs.python.org/3/library/collections.html#collections.OrderedDict) module.
 
 ## What turns an object into a container? 
 
