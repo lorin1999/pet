@@ -10,7 +10,7 @@ This collection of articles, references, scripts, notebooks, tools and exercises
 
 **For ongoing [CodeCats](http://codecats.io/) sessions at [Zeppelin University](https://www.zu.de/).**
 
-**Check out the [NEWS](_news/news.md) to see, what we did and where we are going**
+**Check out the [NEWS](contents/_news/news.md) to see, what we did and where we are going**
 
 ### Current assignment alert
 

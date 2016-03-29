@@ -15,9 +15,8 @@ packages = find_packages()
 log.debug("find_packages() -> %s", packages)
 
 setup(
-    name='python-course',
+    name='python-exploration-toolkit',
     version='0.2.0.dev0',
-    description='Materials and tools for an introductory Python Course',
     url='https://github.com/obestwalter/python-course',
     author='Oliver Bestwalter',
     license='MIT',
