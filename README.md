@@ -28,7 +28,7 @@ Although it takes years to master a programming language and all of its idiosync
 
 ## No idea what Python is yet?
 
-If you have no idea about Python yet, I recommend reading the [official Tutorial](https://docs.python.org/2/tutorial/). If you rather watch a video, [Jessica McKellar gave a good introduction](https://www.youtube.com/watch?v=rkx5_MRAV3A)
+If you have no idea about Python yet, I recommend reading the [official Tutorial](https://docs.python.org/2/tutorial/).
 
 # Licenses
 
