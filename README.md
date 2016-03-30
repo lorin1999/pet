@@ -1,4 +1,4 @@
-[![Gitter](https://badges.gitter.im/obestwalter/python-course.svg)](https://gitter.im/obestwalter/python-course)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/obestwalter/pet) [![Gitter](https://badges.gitter.im/obestwalter/python-course.svg)](https://gitter.im/obestwalter/python-course)
 
 # PET - Python Exploration Toolkit ![logo](docs/logo.png) 
 
