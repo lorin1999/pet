@@ -14,7 +14,10 @@ Gitter provides chat rooms which are attached to Github repositories ([features]
 
 **... and switch to Python3 ...** sorry - I just can't stand Python2 anymore and you will fare better with Python3 also :D
 
-see: https://wiki.python.org/moin/Python2orPython3
+see: 
+
+* https://wiki.python.org/moin/Python2orPython3
+* [Python 3 wall of superpowers](https://python3wos.appspot.com/)
 
 # History
 
