@@ -8,3 +8,4 @@ These CodeCats have already sent PRs:
 * [Falk92](https://github.com/Falk92)
 * [gregcodes](https://github.com/gregcodes)
 * [maxboada](https://github.com/maxboada)
+* [lorin1999](https://github.com/lorin1999)
